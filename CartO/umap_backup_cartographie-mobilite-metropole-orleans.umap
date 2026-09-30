@@ -467,6 +467,80 @@
         {
           "geometry": {
             "coordinates": [
+              1.912989,
+              47.932145
+            ],
+            "type": "Point"
+          },
+          "id": "jiqz8",
+          "properties": {
+            "description": "Manque de marquage pour indiquer le contresens cyclable + manque de visibilité dans le virage",
+            "name": "Contresens Anatole France"
+          },
+          "type": "Feature"
+        },
+        {
+          "geometry": {
+            "coordinates": [
+              1.93864,
+              47.89431
+            ],
+            "type": "Point"
+          },
+          "id": "WozN7",
+          "properties": {
+            "description": "La piste cyclable se termine brusquement devant l'ile Charlemagne",
+            "name": "Fin piste cyclable Chevauchée"
+          },
+          "type": "Feature"
+        },
+        {
+          "geometry": {
+            "coordinates": [
+              1.914821,
+              47.91993
+            ],
+            "type": "Point"
+          },
+          "id": "rvXs1",
+          "properties": {
+            "description": "Les véhicules Berthelot -> Leroy coupent l'intersection (absence de marquage\nConflit avec le M12 tourne à droite de la rue Moine",
+            "name": "Intersection Berthelot / Leroy / Moine"
+          },
+          "type": "Feature"
+        },
+        {
+          "geometry": {
+            "coordinates": [
+              [
+                1.89556,
+                47.936731
+              ],
+              [
+                1.895882,
+                47.935997
+              ],
+              [
+                1.896086,
+                47.935322
+              ],
+              [
+                1.896375,
+                47.934085
+              ]
+            ],
+            "type": "LineString"
+          },
+          "id": "bbI2O",
+          "properties": {
+            "description": "Vers le sud, la piste se termine brusquement, conflit avec les sorties de la plateforme du bâtiment et du concessionaire.\nImportant car dessert ChapitO / stade de la Vallée\nVoir la pointe nord du parc des Manufactures",
+            "name": "Piste Avenue André Dessaux"
+          },
+          "type": "Feature"
+        },
+        {
+          "geometry": {
+            "coordinates": [
               [
                 1.904401,
                 47.920853
@@ -511,6 +585,21 @@
         {
           "geometry": {
             "coordinates": [
+              1.922945,
+              47.893208
+            ],
+            "type": "Point"
+          },
+          "id": "tUPZ1",
+          "properties": {
+            "description": "Traversées du tunnel très dangereuse, à double sens sur un trottoir trop étroit",
+            "name": "Tunnel capucins"
+          },
+          "type": "Feature"
+        },
+        {
+          "geometry": {
+            "coordinates": [
               [
                 1.900592,
                 47.927759
@@ -532,89 +621,31 @@
         {
           "geometry": {
             "coordinates": [
-              1.912989,
-              47.932145
-            ],
-            "type": "Point"
-          },
-          "id": "jiqz8",
-          "properties": {
-            "description": "Manque de marquage pour indiquer le contresens cyclable + manque de visibilité dans le virage",
-            "name": "Contresens Anatole France"
-          },
-          "type": "Feature"
-        },
-        {
-          "geometry": {
-            "coordinates": [
-              1.914821,
-              47.91993
-            ],
-            "type": "Point"
-          },
-          "id": "rvXs1",
-          "properties": {
-            "description": "Les véhicules Berthelot -> Leroy coupent l'intersection (absence de marquage\nConflit avec le M12 tourne à droite de la rue Moine",
-            "name": "Intersection Berthelot / Leroy / Moine"
-          },
-          "type": "Feature"
-        },
-        {
-          "geometry": {
-            "coordinates": [
-              1.922945,
-              47.893208
-            ],
-            "type": "Point"
-          },
-          "id": "tUPZ1",
-          "properties": {
-            "description": "Traversées du tunnel très dangereuse, à double sens sur un trottoir trop étroit",
-            "name": "Tunnel capucins"
-          },
-          "type": "Feature"
-        },
-        {
-          "geometry": {
-            "coordinates": [
-              1.93864,
-              47.89431
-            ],
-            "type": "Point"
-          },
-          "id": "WozN7",
-          "properties": {
-            "description": "La piste cyclable se termine brusquement devant l'ile Charlemagne",
-            "name": "Fin piste cyclable Chevauchée"
-          },
-          "type": "Feature"
-        },
-        {
-          "geometry": {
-            "coordinates": [
               [
-                1.89556,
-                47.936731
-              ],
-              [
-                1.895882,
-                47.935997
-              ],
-              [
-                1.896086,
-                47.935322
-              ],
-              [
-                1.896375,
-                47.934085
+                [
+                  1.888983,
+                  47.925473
+                ],
+                [
+                  1.892824,
+                  47.920599
+                ],
+                [
+                  1.896214,
+                  47.922511
+                ],
+                [
+                  1.888983,
+                  47.925473
+                ]
               ]
             ],
-            "type": "LineString"
+            "type": "Polygon"
           },
-          "id": "bbI2O",
+          "id": "LfTbk",
           "properties": {
-            "description": "Vers le sud, la piste se termine brusquement, conflit avec les sorties de la plateforme du bâtiment et du concessionaire.\nImportant car dessert ChapitO / stade de la Vallée\nVoir la pointe nord du parc des Manufactures",
-            "name": "Piste Avenue André Dessaux"
+            "description": "This is a test for automated backup",
+            "name": "Backup test"
           },
           "type": "Feature"
         }
