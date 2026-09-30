@@ -1,0 +1,692 @@
+{
+  "geometry": {
+    "coordinates": [
+      1.897247135639191,
+      47.915320961127634
+    ],
+    "type": "Point"
+  },
+  "layers": [
+    {
+      "features": [],
+      "properties": {
+        "browsable": false,
+        "color": "SpringGreen",
+        "displayOnLoad": true,
+        "fields": [
+          {
+            "key": "nom_commune",
+            "type": "String"
+          },
+          {
+            "key": "codcomm",
+            "type": "String"
+          },
+          {
+            "key": "insee",
+            "type": "String"
+          },
+          {
+            "key": "code_epci",
+            "type": "String"
+          },
+          {
+            "key": "shape_area",
+            "type": "String"
+          },
+          {
+            "key": "shape_length",
+            "type": "String"
+          },
+          {
+            "key": "nom_majuscule",
+            "type": "String"
+          }
+        ],
+        "fill": true,
+        "fillColor": "MediumSpringGreen",
+        "fillOpacity": 0.1,
+        "inCaption": false,
+        "interactive": false,
+        "name": "Limites communes",
+        "opacity": 0.5,
+        "remoteData": {
+          "dynamic": true,
+          "format": "geojson",
+          "url": "https://data.orleans-metropole.fr/api/explore/v2.1/catalog/datasets/administratif_adm_com_agglo/exports/geojson"
+        }
+      },
+      "rank": 0,
+      "type": "FeatureCollection"
+    },
+    {
+      "features": [
+        {
+          "geometry": {
+            "coordinates": [
+              1.912168,
+              47.928974
+            ],
+            "type": "Point"
+          },
+          "id": "bB7r9",
+          "properties": {
+            "description": "Arceaux non fixés au sol",
+            "name": "P+R Bustière"
+          },
+          "type": "Feature"
+        },
+        {
+          "geometry": {
+            "coordinates": [
+              1.915398,
+              47.903944
+            ],
+            "type": "Point"
+          },
+          "id": "S9sv4",
+          "properties": {
+            "description": "Manque de stationnement vélo sécurisé",
+            "name": "Théatre"
+          },
+          "type": "Feature"
+        },
+        {
+          "geometry": {
+            "coordinates": [
+              1.908185,
+              47.926579
+            ],
+            "type": "Point"
+          },
+          "id": "7B2yL",
+          "properties": {
+            "description": "Velopark sous-dimensionné pour la gare\nLa porte ne ferme plus",
+            "name": "Velopark Aubrais"
+          },
+          "type": "Feature"
+        },
+        {
+          "geometry": {
+            "coordinates": [
+              1.920568,
+              47.931239
+            ],
+            "type": "Point"
+          },
+          "id": "dH06U",
+          "properties": {
+            "description": "Manque récurrent de stationnement vélo à la mairie",
+            "name": "Mairie de Fleury-les-Aubrais"
+          },
+          "type": "Feature"
+        },
+        {
+          "geometry": {
+            "coordinates": [
+              1.92367,
+              47.932125
+            ],
+            "type": "Point"
+          },
+          "id": "toZb6",
+          "properties": {
+            "description": "Manque de stationnement vélo sur le parc des sports Duclos",
+            "name": "Parc des sports Duclos"
+          },
+          "type": "Feature"
+        },
+        {
+          "geometry": {
+            "coordinates": [
+              [
+                1.90248,
+                47.925143
+              ],
+              [
+                1.901225,
+                47.926156
+              ],
+              [
+                1.899648,
+                47.927522
+              ]
+            ],
+            "type": "LineString"
+          },
+          "id": "13g5a",
+          "properties": {
+            "description": "La piste du parc des Manufactures pourrait être facilement prolongée jusqu'à Téléperformances",
+            "name": "Parc des Manufactures"
+          },
+          "type": "Feature"
+        },
+        {
+          "geometry": {
+            "coordinates": [
+              [
+                1.898682,
+                47.934186
+              ],
+              [
+                1.898757,
+                47.935077
+              ],
+              [
+                1.898264,
+                47.936558
+              ],
+              [
+                1.898661,
+                47.937708
+              ],
+              [
+                1.898832,
+                47.938154
+              ],
+              [
+                1.898317,
+                47.938369
+              ]
+            ],
+            "type": "LineString"
+          },
+          "id": "OSk1P",
+          "properties": {
+            "description": "L'ancienne voie ferrée pourrait être défrichée et transformée en voie verte à moindre frais pour offrir une alternative à André Dessaux pour la desserte de ChapitO / stade de la Vallée",
+            "name": "Parc des Manufactures (nord)"
+          },
+          "type": "Feature"
+        }
+      ],
+      "properties": {
+        "browsable": true,
+        "color": "Indigo",
+        "displayOnLoad": true,
+        "fields": [
+          {
+            "key": "name",
+            "type": "String"
+          },
+          {
+            "key": "description",
+            "type": "Text"
+          }
+        ],
+        "iconUrl": "/uploads/pictogram/bicycle-share.svg",
+        "inCaption": true,
+        "name": "Equipement",
+        "remoteData": {}
+      },
+      "rank": 1,
+      "type": "FeatureCollection"
+    },
+    {
+      "features": [
+        {
+          "geometry": {
+            "coordinates": [
+              [
+                1.904154,
+                47.908051
+              ],
+              [
+                1.904068,
+                47.907191
+              ]
+            ],
+            "type": "LineString"
+          },
+          "id": "FgLb7",
+          "properties": {
+            "description": "La piste cyclable sert de dépose-minute pour la gare SNCF",
+            "name": "Gare d'Orléans"
+          },
+          "type": "Feature"
+        },
+        {
+          "geometry": {
+            "coordinates": [
+              [
+                [
+                  1.907072,
+                  47.927026
+                ],
+                [
+                  1.907458,
+                  47.925962
+                ],
+                [
+                  1.907952,
+                  47.92602
+                ],
+                [
+                  1.907576,
+                  47.927112
+                ],
+                [
+                  1.907072,
+                  47.927026
+                ]
+              ]
+            ],
+            "type": "Polygon"
+          },
+          "id": "RscV3",
+          "properties": {
+            "description": "Stationnement anarchique lors de fortes affluences",
+            "name": "Gare des Aubrais"
+          },
+          "type": "Feature"
+        },
+        {
+          "geometry": {
+            "coordinates": [
+              1.913558,
+              47.929043
+            ],
+            "type": "Point"
+          },
+          "id": "TZWos",
+          "properties": {
+            "description": "Stationnement régulier sur piste cyclable et passage piétons : infirmières, portage de repas, pompiers, visiteurs, emménagements / déménagements",
+            "name": "Patios d'Or"
+          },
+          "type": "Feature"
+        },
+        {
+          "geometry": {
+            "coordinates": [
+              [
+                1.90749,
+                47.909467
+              ],
+              [
+                1.908456,
+                47.911093
+              ]
+            ],
+            "type": "LineString"
+          },
+          "id": "SYCcT",
+          "properties": {
+            "description": "Stationnement sur piste cyclable en soirée devant les fast food",
+            "name": "Rue Emile Zola"
+          },
+          "type": "Feature"
+        },
+        {
+          "geometry": {
+            "coordinates": [
+              1.910312,
+              47.914719
+            ],
+            "type": "Point"
+          },
+          "id": "4puCh",
+          "properties": {
+            "description": "Stationnement sur piste cyclable aux horaires des repas en face du restaurant",
+            "name": "Rue Emile Zola"
+          },
+          "type": "Feature"
+        }
+      ],
+      "properties": {
+        "browsable": true,
+        "color": "Maroon",
+        "displayOnLoad": true,
+        "fields": [
+          {
+            "key": "name",
+            "type": "String"
+          },
+          {
+            "key": "description",
+            "type": "Text"
+          }
+        ],
+        "fillColor": "Maroon",
+        "fillOpacity": 0.4,
+        "iconUrl": "/uploads/pictogram/taxi.svg",
+        "inCaption": true,
+        "name": "Stationnement gênant",
+        "opacity": 1,
+        "remoteData": {},
+        "weight": 4
+      },
+      "rank": 2,
+      "type": "FeatureCollection"
+    },
+    {
+      "features": [
+        {
+          "geometry": {
+            "coordinates": [
+              [
+                [
+                  1.906793,
+                  47.921533
+                ],
+                [
+                  1.906686,
+                  47.92103
+                ],
+                [
+                  1.907308,
+                  47.921016
+                ],
+                [
+                  1.907265,
+                  47.921533
+                ],
+                [
+                  1.906793,
+                  47.921533
+                ]
+              ]
+            ],
+            "type": "Polygon"
+          },
+          "id": "p8akb",
+          "properties": {
+            "description": "Cheminement peu clair, manque de visibilité\n",
+            "name": "Carrefour Lamartine / Joie / Hugo"
+          },
+          "type": "Feature"
+        },
+        {
+          "geometry": {
+            "coordinates": [
+              [
+                [
+                  1.920552,
+                  47.931132
+                ],
+                [
+                  1.920505,
+                  47.930984
+                ],
+                [
+                  1.920779,
+                  47.93096
+                ],
+                [
+                  1.9208,
+                  47.931094
+                ],
+                [
+                  1.920552,
+                  47.931132
+                ]
+              ]
+            ],
+            "type": "Polygon"
+          },
+          "id": "RSaGz",
+          "properties": {
+            "description": "Cheminement pas clair, protection par des pictos, et angles trop ouverts pour véhicules",
+            "name": "Carrefour Mairie  /Bld Lamballe"
+          },
+          "type": "Feature"
+        },
+        {
+          "geometry": {
+            "coordinates": [
+              [
+                [
+                  1.913458,
+                  47.929271
+                ],
+                [
+                  1.913359,
+                  47.929016
+                ],
+                [
+                  1.913606,
+                  47.92896
+                ],
+                [
+                  1.913705,
+                  47.929213
+                ],
+                [
+                  1.913458,
+                  47.929271
+                ]
+              ]
+            ],
+            "type": "Polygon"
+          },
+          "id": "3u0uT",
+          "properties": {
+            "description": "Marquages piste cyclable effacés, pas de protection par plot, stationnements très fréquents sur pistes cyclables et passages piétons",
+            "name": "Carrefour tram A / Bustière"
+          },
+          "type": "Feature"
+        },
+        {
+          "geometry": {
+            "coordinates": [
+              [
+                1.904401,
+                47.920853
+              ],
+              [
+                1.904701,
+                47.920946
+              ],
+              [
+                1.905624,
+                47.921176
+              ],
+              [
+                1.906632,
+                47.921219
+              ]
+            ],
+            "type": "LineString"
+          },
+          "id": "5sYWK",
+          "properties": {
+            "description": "Pas de cheminement cyclable sur le pont vers l'Est",
+            "name": "Pont de joie W -> E"
+          },
+          "type": "Feature"
+        },
+        {
+          "geometry": {
+            "coordinates": [
+              1.900711,
+              47.93425
+            ],
+            "type": "Point"
+          },
+          "id": "HRypP",
+          "properties": {
+            "description": "Manque de protection bande cyclable dans l'intersection avec la rue Victor Hugo",
+            "name": "Tunnel Ardoise"
+          },
+          "type": "Feature"
+        },
+        {
+          "geometry": {
+            "coordinates": [
+              [
+                1.900592,
+                47.927759
+              ],
+              [
+                1.905506,
+                47.92868
+              ]
+            ],
+            "type": "LineString"
+          },
+          "id": "bjENP",
+          "properties": {
+            "description": "Trottoir trop étroit, piste cyclable bidirectionnelle trop étroite, non-respect du 30 km/h pour les véhicules à moteur\n",
+            "name": "Tunnel du Champ Bouchaud"
+          },
+          "type": "Feature"
+        },
+        {
+          "geometry": {
+            "coordinates": [
+              1.912989,
+              47.932145
+            ],
+            "type": "Point"
+          },
+          "id": "jiqz8",
+          "properties": {
+            "description": "Manque de marquage pour indiquer le contresens cyclable + manque de visibilité dans le virage",
+            "name": "Contresens Anatole France"
+          },
+          "type": "Feature"
+        },
+        {
+          "geometry": {
+            "coordinates": [
+              1.914821,
+              47.91993
+            ],
+            "type": "Point"
+          },
+          "id": "rvXs1",
+          "properties": {
+            "description": "Les véhicules Berthelot -> Leroy coupent l'intersection (absence de marquage\nConflit avec le M12 tourne à droite de la rue Moine",
+            "name": "Intersection Berthelot / Leroy / Moine"
+          },
+          "type": "Feature"
+        },
+        {
+          "geometry": {
+            "coordinates": [
+              1.922945,
+              47.893208
+            ],
+            "type": "Point"
+          },
+          "id": "tUPZ1",
+          "properties": {
+            "description": "Traversées du tunnel très dangereuse, à double sens sur un trottoir trop étroit",
+            "name": "Tunnel capucins"
+          },
+          "type": "Feature"
+        },
+        {
+          "geometry": {
+            "coordinates": [
+              1.93864,
+              47.89431
+            ],
+            "type": "Point"
+          },
+          "id": "WozN7",
+          "properties": {
+            "description": "La piste cyclable se termine brusquement devant l'ile Charlemagne",
+            "name": "Fin piste cyclable Chevauchée"
+          },
+          "type": "Feature"
+        },
+        {
+          "geometry": {
+            "coordinates": [
+              [
+                1.89556,
+                47.936731
+              ],
+              [
+                1.895882,
+                47.935997
+              ],
+              [
+                1.896086,
+                47.935322
+              ],
+              [
+                1.896375,
+                47.934085
+              ]
+            ],
+            "type": "LineString"
+          },
+          "id": "bbI2O",
+          "properties": {
+            "description": "Vers le sud, la piste se termine brusquement, conflit avec les sorties de la plateforme du bâtiment et du concessionaire.\nImportant car dessert ChapitO / stade de la Vallée\nVoir la pointe nord du parc des Manufactures",
+            "name": "Piste Avenue André Dessaux"
+          },
+          "type": "Feature"
+        }
+      ],
+      "properties": {
+        "browsable": true,
+        "color": "Red",
+        "description": "Cartographie des dangers",
+        "displayOnLoad": true,
+        "fields": [
+          {
+            "key": "name",
+            "type": "String"
+          },
+          {
+            "key": "description",
+            "type": "Text"
+          }
+        ],
+        "fillColor": "Red",
+        "iconUrl": "/uploads/pictogram/caution.svg",
+        "inCaption": true,
+        "name": "Danger",
+        "opacity": 1,
+        "remoteData": {},
+        "stroke": true,
+        "weight": 6
+      },
+      "rank": 3,
+      "type": "FeatureCollection"
+    }
+  ],
+  "properties": {
+    "center": [
+      1.897247135639191,
+      47.915320961127634
+    ],
+    "description": "\n",
+    "fields": [],
+    "fullscreenControl": true,
+    "limitBounds": {
+      "east": "2.385750",
+      "north": "48.083125",
+      "south": "47.712534",
+      "west": "1.496201"
+    },
+    "name": "Cartographie mobilité Métropole Orléans",
+    "overlay": {
+      "opacity": 0.3
+    },
+    "slideshow": {},
+    "tags": [
+      "cycling",
+      "environment",
+      "transports"
+    ],
+    "tilelayer": {
+      "attribution": "map data © [[http://osm.org/copyright|OpenStreetMap contributors]] under ODbL - tiles © [[https://github.com/tilery/pianoforte|Min. Aff. Étrangères]]",
+      "maxZoom": 20,
+      "minZoom": 0,
+      "name": "OSM Piano FR",
+      "tms": false,
+      "url_template": "https://a.piano.tiles.quaidorsay.fr/fr{r}/{z}/{x}/{y}.png"
+    },
+    "ttl": {
+      "300": "5 min",
+      "3600": "1 hour",
+      "86400": "1 day"
+    },
+    "zoom": 18,
+    "zoomControl": true
+  },
+  "type": "umap",
+  "uri": "http://umap.openstreetmap.fr/en/map/cartographie-mobilite-metropole-orleans_1466727"
+}
