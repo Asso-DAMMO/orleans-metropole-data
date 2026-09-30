@@ -1,0 +1,43 @@
+# Downloads uMap JSON data
+# format JSON data as multi-line for easier handling
+# commit any change
+
+name: Backup uMap
+
+on:
+  schedule:
+    - cron: "15 2 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+env:
+  UMAP_DOWNLOAD_URL: https://umap.openstreetmap.fr/map/1466727/download/
+  BACKUP_FILE: CartO/umap_backup_cartographie-mobilite-metropole-orleans.umap
+
+jobs:
+  backup:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v7
+
+      - name: Download and format uMap
+        run: |
+          curl --fail --silent --show-error "$UMAP_DOWNLOAD_URL" |
+            jq --sort-keys . > "$BACKUP_FILE"
+
+      - name: Commit changes
+        run: |
+          git config user.name "${{ github.actor }}"
+          git config user.email "${{ github.actor }}@users.noreply.github.com"
+
+          git add "$BACKUP_FILE"
+
+          if git diff --cached --quiet; then
+            echo "No changes"
+          else
+            git commit -m "Backup uMap"
+            git push
+          fi
