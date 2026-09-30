@@ -617,37 +617,6 @@
             "name": "Tunnel du Champ Bouchaud"
           },
           "type": "Feature"
-        },
-        {
-          "geometry": {
-            "coordinates": [
-              [
-                [
-                  1.888983,
-                  47.925473
-                ],
-                [
-                  1.892824,
-                  47.920599
-                ],
-                [
-                  1.896214,
-                  47.922511
-                ],
-                [
-                  1.888983,
-                  47.925473
-                ]
-              ]
-            ],
-            "type": "Polygon"
-          },
-          "id": "LfTbk",
-          "properties": {
-            "description": "This is a test for automated backup",
-            "name": "Backup test"
-          },
-          "type": "Feature"
         }
       ],
       "properties": {
