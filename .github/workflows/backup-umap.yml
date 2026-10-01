@@ -26,7 +26,15 @@ jobs:
       - name: Download and format uMap
         run: |
           curl --fail --silent --show-error "$UMAP_DOWNLOAD_URL" |
-            jq --sort-keys . > "$BACKUP_FILE"
+            jq '
+              .layers |= map(
+                if .features then
+                  .features |= sort_by(.id)
+                else
+                  .
+                end
+              )
+            ' --sort-keys > "$BACKUP_FILE"
 
       - name: Commit changes
         run: |
