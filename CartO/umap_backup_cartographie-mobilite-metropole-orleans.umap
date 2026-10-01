@@ -64,36 +64,6 @@
         {
           "geometry": {
             "coordinates": [
-              1.920568,
-              47.931239
-            ],
-            "type": "Point"
-          },
-          "id": "dH06U",
-          "properties": {
-            "description": "Manque récurrent de stationnement vélo à la mairie",
-            "name": "Mairie de Fleury-les-Aubrais"
-          },
-          "type": "Feature"
-        },
-        {
-          "geometry": {
-            "coordinates": [
-              1.912168,
-              47.928974
-            ],
-            "type": "Point"
-          },
-          "id": "bB7r9",
-          "properties": {
-            "description": "Arceaux non fixés au sol",
-            "name": "P+R Bustière"
-          },
-          "type": "Feature"
-        },
-        {
-          "geometry": {
-            "coordinates": [
               [
                 1.90248,
                 47.925143
@@ -113,6 +83,21 @@
           "properties": {
             "description": "La piste du parc des Manufactures pourrait être facilement prolongée jusqu'à Téléperformances",
             "name": "Parc des Manufactures"
+          },
+          "type": "Feature"
+        },
+        {
+          "geometry": {
+            "coordinates": [
+              1.908185,
+              47.926579
+            ],
+            "type": "Point"
+          },
+          "id": "7B2yL",
+          "properties": {
+            "description": "Velopark sous-dimensionné pour la gare\nLa porte ne ferme plus",
+            "name": "Velopark Aubrais"
           },
           "type": "Feature"
         },
@@ -156,21 +141,6 @@
         {
           "geometry": {
             "coordinates": [
-              1.92367,
-              47.932125
-            ],
-            "type": "Point"
-          },
-          "id": "toZb6",
-          "properties": {
-            "description": "Manque de stationnement vélo sur le parc des sports Duclos",
-            "name": "Parc des sports Duclos"
-          },
-          "type": "Feature"
-        },
-        {
-          "geometry": {
-            "coordinates": [
               1.915398,
               47.903944
             ],
@@ -180,21 +150,6 @@
           "properties": {
             "description": "Manque de stationnement vélo sécurisé",
             "name": "Théatre"
-          },
-          "type": "Feature"
-        },
-        {
-          "geometry": {
-            "coordinates": [
-              1.908185,
-              47.926579
-            ],
-            "type": "Point"
-          },
-          "id": "7B2yL",
-          "properties": {
-            "description": "Velopark sous-dimensionné pour la gare\nLa porte ne ferme plus",
-            "name": "Velopark Aubrais"
           },
           "type": "Feature"
         },
@@ -246,6 +201,51 @@
             "name": "Trottoir Bd Victor Hugo"
           },
           "type": "Feature"
+        },
+        {
+          "geometry": {
+            "coordinates": [
+              1.912168,
+              47.928974
+            ],
+            "type": "Point"
+          },
+          "id": "bB7r9",
+          "properties": {
+            "description": "Arceaux non fixés au sol",
+            "name": "P+R Bustière"
+          },
+          "type": "Feature"
+        },
+        {
+          "geometry": {
+            "coordinates": [
+              1.920568,
+              47.931239
+            ],
+            "type": "Point"
+          },
+          "id": "dH06U",
+          "properties": {
+            "description": "Manque récurrent de stationnement vélo à la mairie",
+            "name": "Mairie de Fleury-les-Aubrais"
+          },
+          "type": "Feature"
+        },
+        {
+          "geometry": {
+            "coordinates": [
+              1.92367,
+              47.932125
+            ],
+            "type": "Point"
+          },
+          "id": "toZb6",
+          "properties": {
+            "description": "Manque de stationnement vélo sur le parc des sports Duclos",
+            "name": "Parc des sports Duclos"
+          },
+          "type": "Feature"
         }
       ],
       "properties": {
@@ -272,6 +272,21 @@
     },
     {
       "features": [
+        {
+          "geometry": {
+            "coordinates": [
+              1.910312,
+              47.914719
+            ],
+            "type": "Point"
+          },
+          "id": "4puCh",
+          "properties": {
+            "description": "Stationnement sur piste cyclable aux horaires des repas en face du restaurant",
+            "name": "Rue Emile Zola"
+          },
+          "type": "Feature"
+        },
         {
           "geometry": {
             "coordinates": [
@@ -331,21 +346,6 @@
         {
           "geometry": {
             "coordinates": [
-              1.913558,
-              47.929043
-            ],
-            "type": "Point"
-          },
-          "id": "TZWos",
-          "properties": {
-            "description": "Stationnement régulier sur piste cyclable et passage piétons : infirmières, portage de repas, pompiers, visiteurs, emménagements / déménagements",
-            "name": "Patios d'Or"
-          },
-          "type": "Feature"
-        },
-        {
-          "geometry": {
-            "coordinates": [
               [
                 1.90749,
                 47.909467
@@ -367,15 +367,15 @@
         {
           "geometry": {
             "coordinates": [
-              1.910312,
-              47.914719
+              1.913558,
+              47.929043
             ],
             "type": "Point"
           },
-          "id": "4puCh",
+          "id": "TZWos",
           "properties": {
-            "description": "Stationnement sur piste cyclable aux horaires des repas en face du restaurant",
-            "name": "Rue Emile Zola"
+            "description": "Stationnement régulier sur piste cyclable et passage piétons : infirmières, portage de repas, pompiers, visiteurs, emménagements / déménagements",
+            "name": "Patios d'Or"
           },
           "type": "Feature"
         }
@@ -413,76 +413,6 @@
             "coordinates": [
               [
                 [
-                  1.906793,
-                  47.921533
-                ],
-                [
-                  1.906686,
-                  47.92103
-                ],
-                [
-                  1.907308,
-                  47.921016
-                ],
-                [
-                  1.907265,
-                  47.921533
-                ],
-                [
-                  1.906793,
-                  47.921533
-                ]
-              ]
-            ],
-            "type": "Polygon"
-          },
-          "id": "p8akb",
-          "properties": {
-            "description": "Cheminement peu clair, manque de visibilité\n",
-            "name": "Carrefour Lamartine / Joie / Hugo"
-          },
-          "type": "Feature"
-        },
-        {
-          "geometry": {
-            "coordinates": [
-              [
-                [
-                  1.920552,
-                  47.931132
-                ],
-                [
-                  1.920505,
-                  47.930984
-                ],
-                [
-                  1.920779,
-                  47.93096
-                ],
-                [
-                  1.9208,
-                  47.931094
-                ],
-                [
-                  1.920552,
-                  47.931132
-                ]
-              ]
-            ],
-            "type": "Polygon"
-          },
-          "id": "RSaGz",
-          "properties": {
-            "description": "Cheminement pas clair, protection par des pictos, et angles trop ouverts pour véhicules",
-            "name": "Carrefour Mairie  /Bld Lamballe"
-          },
-          "type": "Feature"
-        },
-        {
-          "geometry": {
-            "coordinates": [
-              [
-                [
                   1.913458,
                   47.929271
                 ],
@@ -510,80 +440,6 @@
           "properties": {
             "description": "Marquages piste cyclable effacés, pas de protection par plot, stationnements très fréquents sur pistes cyclables et passages piétons",
             "name": "Carrefour tram A / Bustière"
-          },
-          "type": "Feature"
-        },
-        {
-          "geometry": {
-            "coordinates": [
-              1.912989,
-              47.932145
-            ],
-            "type": "Point"
-          },
-          "id": "jiqz8",
-          "properties": {
-            "description": "Manque de marquage pour indiquer le contresens cyclable + manque de visibilité dans le virage",
-            "name": "Contresens Anatole France"
-          },
-          "type": "Feature"
-        },
-        {
-          "geometry": {
-            "coordinates": [
-              1.93864,
-              47.89431
-            ],
-            "type": "Point"
-          },
-          "id": "WozN7",
-          "properties": {
-            "description": "La piste cyclable se termine brusquement devant l'ile Charlemagne",
-            "name": "Fin piste cyclable Chevauchée"
-          },
-          "type": "Feature"
-        },
-        {
-          "geometry": {
-            "coordinates": [
-              1.914821,
-              47.91993
-            ],
-            "type": "Point"
-          },
-          "id": "rvXs1",
-          "properties": {
-            "description": "Les véhicules Berthelot -> Leroy coupent l'intersection (absence de marquage\nConflit avec le M12 tourne à droite de la rue Moine",
-            "name": "Intersection Berthelot / Leroy / Moine"
-          },
-          "type": "Feature"
-        },
-        {
-          "geometry": {
-            "coordinates": [
-              [
-                1.89556,
-                47.936731
-              ],
-              [
-                1.895882,
-                47.935997
-              ],
-              [
-                1.896086,
-                47.935322
-              ],
-              [
-                1.896375,
-                47.934085
-              ]
-            ],
-            "type": "LineString"
-          },
-          "id": "bbI2O",
-          "properties": {
-            "description": "Vers le sud, la piste se termine brusquement, conflit avec les sorties de la plateforme du bâtiment et du concessionaire.\nImportant car dessert ChapitO / stade de la Vallée\nVoir la pointe nord du parc des Manufactures",
-            "name": "Piste Avenue André Dessaux"
           },
           "type": "Feature"
         },
@@ -634,15 +490,124 @@
         {
           "geometry": {
             "coordinates": [
-              1.922945,
-              47.893208
+              [
+                1.903285,
+                47.919182
+              ],
+              [
+                1.903397,
+                47.919319
+              ],
+              [
+                1.90351,
+                47.919405
+              ],
+              [
+                1.903789,
+                47.919991
+              ],
+              [
+                1.903896,
+                47.920088
+              ],
+              [
+                1.904041,
+                47.920372
+              ],
+              [
+                1.904224,
+                47.92057
+              ],
+              [
+                1.904299,
+                47.920732
+              ]
+            ],
+            "type": "LineString"
+          },
+          "id": "HqknG",
+          "properties": {
+            "description": "La remontée vers le nord\n* traverse la gare de bus longue distance\n* monte sur le trottoir partagé avec les piétons\n* abouti à une intersection dangereuse avec la rue de la Bourie Rouge",
+            "name": "Parc des Manufactures (sud)"
+          },
+          "type": "Feature"
+        },
+        {
+          "geometry": {
+            "coordinates": [
+              [
+                [
+                  1.920552,
+                  47.931132
+                ],
+                [
+                  1.920505,
+                  47.930984
+                ],
+                [
+                  1.920779,
+                  47.93096
+                ],
+                [
+                  1.9208,
+                  47.931094
+                ],
+                [
+                  1.920552,
+                  47.931132
+                ]
+              ]
+            ],
+            "type": "Polygon"
+          },
+          "id": "RSaGz",
+          "properties": {
+            "description": "Cheminement pas clair, protection par des pictos, et angles trop ouverts pour véhicules",
+            "name": "Carrefour Mairie  /Bld Lamballe"
+          },
+          "type": "Feature"
+        },
+        {
+          "geometry": {
+            "coordinates": [
+              1.93864,
+              47.89431
             ],
             "type": "Point"
           },
-          "id": "tUPZ1",
+          "id": "WozN7",
           "properties": {
-            "description": "Traversées du tunnel très dangereuse, à double sens sur un trottoir trop étroit",
-            "name": "Tunnel capucins"
+            "description": "La piste cyclable se termine brusquement devant l'ile Charlemagne",
+            "name": "Fin piste cyclable Chevauchée"
+          },
+          "type": "Feature"
+        },
+        {
+          "geometry": {
+            "coordinates": [
+              [
+                1.89556,
+                47.936731
+              ],
+              [
+                1.895882,
+                47.935997
+              ],
+              [
+                1.896086,
+                47.935322
+              ],
+              [
+                1.896375,
+                47.934085
+              ]
+            ],
+            "type": "LineString"
+          },
+          "id": "bbI2O",
+          "properties": {
+            "description": "Vers le sud, la piste se termine brusquement, conflit avec les sorties de la plateforme du bâtiment et du concessionaire.\nImportant car dessert ChapitO / stade de la Vallée\nVoir la pointe nord du parc des Manufactures",
+            "name": "Piste Avenue André Dessaux"
           },
           "type": "Feature"
         },
@@ -664,6 +629,86 @@
           "properties": {
             "description": "Trottoir trop étroit, piste cyclable bidirectionnelle trop étroite, non-respect du 30 km/h pour les véhicules à moteur\n",
             "name": "Tunnel du Champ Bouchaud"
+          },
+          "type": "Feature"
+        },
+        {
+          "geometry": {
+            "coordinates": [
+              1.912989,
+              47.932145
+            ],
+            "type": "Point"
+          },
+          "id": "jiqz8",
+          "properties": {
+            "description": "Manque de marquage pour indiquer le contresens cyclable + manque de visibilité dans le virage",
+            "name": "Contresens Anatole France"
+          },
+          "type": "Feature"
+        },
+        {
+          "geometry": {
+            "coordinates": [
+              [
+                [
+                  1.906793,
+                  47.921533
+                ],
+                [
+                  1.906686,
+                  47.92103
+                ],
+                [
+                  1.907308,
+                  47.921016
+                ],
+                [
+                  1.907265,
+                  47.921533
+                ],
+                [
+                  1.906793,
+                  47.921533
+                ]
+              ]
+            ],
+            "type": "Polygon"
+          },
+          "id": "p8akb",
+          "properties": {
+            "description": "Cheminement peu clair, manque de visibilité\n",
+            "name": "Carrefour Lamartine / Joie / Hugo"
+          },
+          "type": "Feature"
+        },
+        {
+          "geometry": {
+            "coordinates": [
+              1.914821,
+              47.91993
+            ],
+            "type": "Point"
+          },
+          "id": "rvXs1",
+          "properties": {
+            "description": "Les véhicules Berthelot -> Leroy coupent l'intersection (absence de marquage\nConflit avec le M12 tourne à droite de la rue Moine",
+            "name": "Intersection Berthelot / Leroy / Moine"
+          },
+          "type": "Feature"
+        },
+        {
+          "geometry": {
+            "coordinates": [
+              1.922945,
+              47.893208
+            ],
+            "type": "Point"
+          },
+          "id": "tUPZ1",
+          "properties": {
+            "description": "Traversées du tunnel très dangereuse, à double sens sur un trottoir trop étroit",
+            "name": "Tunnel capucins"
           },
           "type": "Feature"
         }
