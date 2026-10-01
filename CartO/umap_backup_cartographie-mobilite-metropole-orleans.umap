@@ -64,51 +64,6 @@
         {
           "geometry": {
             "coordinates": [
-              1.912168,
-              47.928974
-            ],
-            "type": "Point"
-          },
-          "id": "bB7r9",
-          "properties": {
-            "description": "Arceaux non fixés au sol",
-            "name": "P+R Bustière"
-          },
-          "type": "Feature"
-        },
-        {
-          "geometry": {
-            "coordinates": [
-              1.915398,
-              47.903944
-            ],
-            "type": "Point"
-          },
-          "id": "S9sv4",
-          "properties": {
-            "description": "Manque de stationnement vélo sécurisé",
-            "name": "Théatre"
-          },
-          "type": "Feature"
-        },
-        {
-          "geometry": {
-            "coordinates": [
-              1.908185,
-              47.926579
-            ],
-            "type": "Point"
-          },
-          "id": "7B2yL",
-          "properties": {
-            "description": "Velopark sous-dimensionné pour la gare\nLa porte ne ferme plus",
-            "name": "Velopark Aubrais"
-          },
-          "type": "Feature"
-        },
-        {
-          "geometry": {
-            "coordinates": [
               1.920568,
               47.931239
             ],
@@ -124,15 +79,15 @@
         {
           "geometry": {
             "coordinates": [
-              1.92367,
-              47.932125
+              1.912168,
+              47.928974
             ],
             "type": "Point"
           },
-          "id": "toZb6",
+          "id": "bB7r9",
           "properties": {
-            "description": "Manque de stationnement vélo sur le parc des sports Duclos",
-            "name": "Parc des sports Duclos"
+            "description": "Arceaux non fixés au sol",
+            "name": "P+R Bustière"
           },
           "type": "Feature"
         },
@@ -195,6 +150,100 @@
           "properties": {
             "description": "L'ancienne voie ferrée pourrait être défrichée et transformée en voie verte à moindre frais pour offrir une alternative à André Dessaux pour la desserte de ChapitO / stade de la Vallée",
             "name": "Parc des Manufactures (nord)"
+          },
+          "type": "Feature"
+        },
+        {
+          "geometry": {
+            "coordinates": [
+              1.92367,
+              47.932125
+            ],
+            "type": "Point"
+          },
+          "id": "toZb6",
+          "properties": {
+            "description": "Manque de stationnement vélo sur le parc des sports Duclos",
+            "name": "Parc des sports Duclos"
+          },
+          "type": "Feature"
+        },
+        {
+          "geometry": {
+            "coordinates": [
+              1.915398,
+              47.903944
+            ],
+            "type": "Point"
+          },
+          "id": "S9sv4",
+          "properties": {
+            "description": "Manque de stationnement vélo sécurisé",
+            "name": "Théatre"
+          },
+          "type": "Feature"
+        },
+        {
+          "geometry": {
+            "coordinates": [
+              1.908185,
+              47.926579
+            ],
+            "type": "Point"
+          },
+          "id": "7B2yL",
+          "properties": {
+            "description": "Velopark sous-dimensionné pour la gare\nLa porte ne ferme plus",
+            "name": "Velopark Aubrais"
+          },
+          "type": "Feature"
+        },
+        {
+          "geometry": {
+            "coordinates": [
+              [
+                1.912533,
+                47.914544
+              ],
+              [
+                1.910688,
+                47.915494
+              ],
+              [
+                1.9094,
+                47.916479
+              ],
+              [
+                1.908467,
+                47.917406
+              ],
+              [
+                1.907823,
+                47.918312
+              ],
+              [
+                1.907448,
+                47.919082
+              ],
+              [
+                1.907136,
+                47.919801
+              ],
+              [
+                1.906976,
+                47.920714
+              ],
+              [
+                1.907083,
+                47.921181
+              ]
+            ],
+            "type": "LineString"
+          },
+          "id": "aSyxD",
+          "properties": {
+            "description": "Les trottoirs sont inexistants, les piétons marchent sur les pistes cyclables",
+            "name": "Trottoir Bd Victor Hugo"
           },
           "type": "Feature"
         }
