@@ -1,0 +1,1269 @@
+[
+  {
+    "token": null,
+    "id_pdc_img": 100000015,
+    "idPdc": 200000198,
+    "lat": 47.862764,
+    "lon": 1.798744,
+    "nom": "Mareau",
+    "publicMessage": null,
+    "photo": [],
+    "lienPublic": null,
+    "pratique": [
+      {
+        "pratique": 2,
+        "id": 202000198
+      },
+      {
+        "pratique": 2,
+        "id": 201000198
+      },
+      {
+        "pratique": 2,
+        "id": 353244652
+      },
+      {
+        "pratique": 2,
+        "id": 353244695
+      }
+    ],
+    "mainPratique": 2,
+    "filtre": null,
+    "formule_site": null,
+    "fin": "01/01/2025",
+    "debut": "01/01/2013",
+    "finPeriode": "01/01/2026",
+    "debutPeriode": "01/01/2025",
+    "current_year_default": 0,
+    "externalUrl": "",
+    "nomOrganisme": "Réseau vélo et marche",
+    "logo": "https://filer.eco-counter-tools.com/file/d2/c2693bfa7f64e8d8d35fa40fe065bd2f40a6ad3797580a1d8d58eeca57cf2bd2/2025-07-01 12_27_21-R_seau v_lo et marche.png",
+    "pays": "fr",
+    "sig": 1,
+    "pictoPublic": null,
+    "today": "01/10/2026",
+    "total": 73074,
+    "lastDay": 48,
+    "moyD": 201,
+    "totalLY": null,
+    "lastDay8": null,
+    "moyDLY": null,
+    "nbDays": null,
+    "nbDaysLY": null
+  },
+  {
+    "token": null,
+    "id_pdc_img": 100037562,
+    "idPdc": 200049752,
+    "lat": 47.84895,
+    "lon": 2.163583,
+    "nom": "Ouvrouer les champs",
+    "publicMessage": null,
+    "photo": [],
+    "lienPublic": null,
+    "pratique": [
+      {
+        "pratique": 2,
+        "id": 201049752
+      },
+      {
+        "pratique": 2,
+        "id": 202049752
+      },
+      {
+        "pratique": 2,
+        "id": 203049752
+      },
+      {
+        "pratique": 2,
+        "id": 204049752
+      }
+    ],
+    "mainPratique": 2,
+    "filtre": null,
+    "formule_site": null,
+    "fin": "01/01/2025",
+    "debut": "01/01/2013",
+    "finPeriode": "01/01/2026",
+    "debutPeriode": "01/01/2025",
+    "current_year_default": 0,
+    "externalUrl": "",
+    "nomOrganisme": "Réseau vélo et marche",
+    "logo": "https://filer.eco-counter-tools.com/file/d2/c2693bfa7f64e8d8d35fa40fe065bd2f40a6ad3797580a1d8d58eeca57cf2bd2/2025-07-01 12_27_21-R_seau v_lo et marche.png",
+    "pays": "fr",
+    "sig": 1,
+    "pictoPublic": null,
+    "today": "01/10/2026",
+    "total": 41602,
+    "lastDay": 45,
+    "moyD": 114,
+    "totalLY": null,
+    "lastDay8": null,
+    "moyDLY": null,
+    "nbDays": null,
+    "nbDaysLY": null
+  },
+  {
+    "token": null,
+    "id_pdc_img": 300018763,
+    "idPdc": 300021509,
+    "lat": 47.86102,
+    "lon": 2.07556,
+    "nom": "Jargeau",
+    "publicMessage": null,
+    "photo": [
+      {
+        "lien": "https://filer.eco-counter-tools.com/file/d3/810441666ee8e6c81b217b2f8aee50c343ea4a6ce015e857ae628f2fb2c83cd3/Y2H21070117_20210712163423.jpg"
+      },
+      {
+        "lien": "https://filer.eco-counter-tools.com/file/e7/9bc9aa96e2cb7d71eef0c6a9be22a367946beea99e87cecb67b81b3c95a847e7/Y2H21070117_20211013154540.jpg"
+      }
+    ],
+    "lienPublic": null,
+    "pratique": [
+      {
+        "pratique": 2,
+        "id": 353294849
+      },
+      {
+        "pratique": 2,
+        "id": 353294850
+      },
+      {
+        "pratique": 2,
+        "id": 353294851
+      },
+      {
+        "pratique": 2,
+        "id": 353294852
+      }
+    ],
+    "mainPratique": 2,
+    "filtre": null,
+    "formule_site": null,
+    "fin": "01/01/2025",
+    "debut": "01/01/2013",
+    "finPeriode": "01/01/2026",
+    "debutPeriode": "01/01/2025",
+    "current_year_default": 0,
+    "externalUrl": "",
+    "nomOrganisme": "Réseau vélo et marche",
+    "logo": "https://filer.eco-counter-tools.com/file/d2/c2693bfa7f64e8d8d35fa40fe065bd2f40a6ad3797580a1d8d58eeca57cf2bd2/2025-07-01 12_27_21-R_seau v_lo et marche.png",
+    "pays": "fr",
+    "sig": 1,
+    "pictoPublic": null,
+    "today": "01/10/2026",
+    "total": 78613,
+    "lastDay": 78,
+    "moyD": 218,
+    "totalLY": null,
+    "lastDay8": null,
+    "moyDLY": null,
+    "nbDays": null,
+    "nbDaysLY": null
+  },
+  {
+    "token": null,
+    "id_pdc_img": 100025522,
+    "idPdc": 300038380,
+    "lat": 47.87013,
+    "lon": 1.9035,
+    "nom": "Passerelle d'Olivet",
+    "publicMessage": null,
+    "photo": [
+      {
+        "lien": "https://filer.eco-counter-tools.com/file/35/13114ee6dc404c185ee07b3d8b82cb29b9c2c5ce260d57feec3c11f743196c35/15688796707360.jpg"
+      },
+      {
+        "lien": "https://filer.eco-counter-tools.com/file/4a/ac3c8ecc7956b84a07f11bad03002ee631dde65f8a65f1fd000b881ca98c9f4a/X2H18024560_20201028143658.jpg"
+      },
+      {
+        "lien": "https://filer.eco-counter-tools.com/file/7f/257a66591ae22dfdb67b8f9b064b537a2505fc0130830e43f7be7d789b1f8b7f/14587511019240.jpg"
+      },
+      {
+        "lien": "https://filer.eco-counter-tools.com/file/90/44554afdc3f2e6d90154ac88411a7b8fee91cacc4a2fc6a042be4b61b0055790/X2H18024560_20211012110930.jpg"
+      }
+    ],
+    "lienPublic": null,
+    "pratique": [
+      {
+        "pratique": 2,
+        "id": 353416978
+      },
+      {
+        "pratique": 2,
+        "id": 353416979
+      },
+      {
+        "pratique": 2,
+        "id": 353531700
+      },
+      {
+        "pratique": 2,
+        "id": 353531701
+      }
+    ],
+    "mainPratique": 2,
+    "filtre": null,
+    "formule_site": null,
+    "fin": "01/01/2025",
+    "debut": "01/01/2013",
+    "finPeriode": "01/01/2026",
+    "debutPeriode": "01/01/2025",
+    "current_year_default": 0,
+    "externalUrl": "",
+    "nomOrganisme": "Réseau vélo et marche",
+    "logo": "https://filer.eco-counter-tools.com/file/d2/c2693bfa7f64e8d8d35fa40fe065bd2f40a6ad3797580a1d8d58eeca57cf2bd2/2025-07-01 12_27_21-R_seau v_lo et marche.png",
+    "pays": "fr",
+    "sig": 1,
+    "pictoPublic": null,
+    "today": "01/10/2026",
+    "total": 268856,
+    "lastDay": 877,
+    "moyD": 953,
+    "totalLY": null,
+    "lastDay8": null,
+    "moyDLY": null,
+    "nbDays": null,
+    "nbDaysLY": null
+  },
+  {
+    "token": null,
+    "id_pdc_img": 100025534,
+    "idPdc": 300038381,
+    "lat": 47.93505,
+    "lon": 1.92913,
+    "nom": "Passerelle de la Hartière",
+    "publicMessage": null,
+    "photo": [
+      {
+        "lien": "https://filer.eco-counter-tools.com/file/58/d37ad3a8875c29f8e156495b8e0505f622a3c0bddf24d8539c51130eef7b0758/15688001159990.jpg"
+      }
+    ],
+    "lienPublic": null,
+    "pratique": [
+      {
+        "pratique": 2,
+        "id": 353416982
+      },
+      {
+        "pratique": 2,
+        "id": 353416983
+      }
+    ],
+    "mainPratique": 2,
+    "filtre": null,
+    "formule_site": null,
+    "fin": "01/01/2025",
+    "debut": "01/01/2013",
+    "finPeriode": "01/01/2026",
+    "debutPeriode": "01/01/2025",
+    "current_year_default": 0,
+    "externalUrl": "",
+    "nomOrganisme": "Réseau vélo et marche",
+    "logo": "https://filer.eco-counter-tools.com/file/d2/c2693bfa7f64e8d8d35fa40fe065bd2f40a6ad3797580a1d8d58eeca57cf2bd2/2025-07-01 12_27_21-R_seau v_lo et marche.png",
+    "pays": "fr",
+    "sig": 1,
+    "pictoPublic": null,
+    "today": "01/10/2026",
+    "total": 27032,
+    "lastDay": 10,
+    "moyD": 74,
+    "totalLY": null,
+    "lastDay8": null,
+    "moyDLY": null,
+    "nbDays": null,
+    "nbDaysLY": null
+  },
+  {
+    "token": null,
+    "id_pdc_img": 100044640,
+    "idPdc": 300038382,
+    "lat": 47.88374,
+    "lon": 1.92415,
+    "nom": "Piste Av. G. GALLOUX",
+    "publicMessage": null,
+    "photo": [
+      {
+        "lien": "https://filer.eco-counter-tools.com/file/68/aef4756040bc12d04c5fd339b462d83aa5c59f2f7bf5e5bae51dcdbe2a496068/15241263729930.jpg"
+      },
+      {
+        "lien": "https://filer.eco-counter-tools.com/file/f3/bbe404c8e8a2c7c6f4a7ca4542bb4ec54e5f77cba54b119e344a6b5ef04343f3/15688157260030.jpg"
+      }
+    ],
+    "lienPublic": null,
+    "pratique": [
+      {
+        "pratique": 2,
+        "id": 353416986
+      },
+      {
+        "pratique": 2,
+        "id": 353416987
+      },
+      {
+        "pratique": 2,
+        "id": 353416988
+      },
+      {
+        "pratique": 2,
+        "id": 353416989
+      }
+    ],
+    "mainPratique": 2,
+    "filtre": null,
+    "formule_site": null,
+    "fin": "01/01/2025",
+    "debut": "01/01/2013",
+    "finPeriode": "01/01/2026",
+    "debutPeriode": "01/01/2025",
+    "current_year_default": 0,
+    "externalUrl": "",
+    "nomOrganisme": "Réseau vélo et marche",
+    "logo": "https://filer.eco-counter-tools.com/file/d2/c2693bfa7f64e8d8d35fa40fe065bd2f40a6ad3797580a1d8d58eeca57cf2bd2/2025-07-01 12_27_21-R_seau v_lo et marche.png",
+    "pays": "fr",
+    "sig": 1,
+    "pictoPublic": null,
+    "today": "01/10/2026",
+    "total": 172843,
+    "lastDay": 0,
+    "moyD": 474,
+    "totalLY": null,
+    "lastDay8": null,
+    "moyDLY": null,
+    "nbDays": null,
+    "nbDaysLY": null
+  },
+  {
+    "token": null,
+    "id_pdc_img": 100025523,
+    "idPdc": 300038384,
+    "lat": 47.90677,
+    "lon": 1.92225,
+    "nom": "Piste Av. Jean ZAY Est",
+    "publicMessage": null,
+    "photo": [
+      {
+        "lien": "https://filer.eco-counter-tools.com/file/28/92d39f488b6f6b8ff2c1a88c18838cc62a764a905e90f320cd181b471c71ef28/15688124051610.jpg"
+      },
+      {
+        "lien": "https://filer.eco-counter-tools.com/file/4e/7b94cf2b13c07fc239dcfa17e4211188048d4146e4b966f30966e99986dbbb4e/14570030225180.jpg"
+      }
+    ],
+    "lienPublic": null,
+    "pratique": [
+      {
+        "pratique": 2,
+        "id": 353417008
+      },
+      {
+        "pratique": 2,
+        "id": 353417009
+      }
+    ],
+    "mainPratique": 2,
+    "filtre": null,
+    "formule_site": null,
+    "fin": "01/01/2025",
+    "debut": "01/01/2013",
+    "finPeriode": "01/01/2026",
+    "debutPeriode": "01/01/2025",
+    "current_year_default": 0,
+    "externalUrl": "",
+    "nomOrganisme": "Réseau vélo et marche",
+    "logo": "https://filer.eco-counter-tools.com/file/d2/c2693bfa7f64e8d8d35fa40fe065bd2f40a6ad3797580a1d8d58eeca57cf2bd2/2025-07-01 12_27_21-R_seau v_lo et marche.png",
+    "pays": "fr",
+    "sig": 1,
+    "pictoPublic": null,
+    "today": "01/10/2026",
+    "total": 83040,
+    "lastDay": 275,
+    "moyD": 228,
+    "totalLY": null,
+    "lastDay8": null,
+    "moyDLY": null,
+    "nbDays": null,
+    "nbDaysLY": null
+  },
+  {
+    "token": null,
+    "id_pdc_img": 100025521,
+    "idPdc": 300038385,
+    "lat": 47.90689,
+    "lon": 1.92213,
+    "nom": "Piste Av. Jean ZAY Ouest",
+    "publicMessage": null,
+    "photo": [
+      {
+        "lien": "https://filer.eco-counter-tools.com/file/99/eab024e8b81fc7e2c6d4ce73f176210ea5da6340d04a6045a563c2dba6a20099/14570020447200.jpg"
+      },
+      {
+        "lien": "https://filer.eco-counter-tools.com/file/fc/680e1d7a6d0c4eee05cd9ed946551152da84c47c6e7d190e3b940d24d2d9d3fc/15688135729360.jpg"
+      }
+    ],
+    "lienPublic": null,
+    "pratique": [
+      {
+        "pratique": 2,
+        "id": 353417012
+      },
+      {
+        "pratique": 2,
+        "id": 353417013
+      }
+    ],
+    "mainPratique": 2,
+    "filtre": null,
+    "formule_site": null,
+    "fin": "01/01/2025",
+    "debut": "01/01/2013",
+    "finPeriode": "01/01/2026",
+    "debutPeriode": "01/01/2025",
+    "current_year_default": 0,
+    "externalUrl": "",
+    "nomOrganisme": "Réseau vélo et marche",
+    "logo": "https://filer.eco-counter-tools.com/file/d2/c2693bfa7f64e8d8d35fa40fe065bd2f40a6ad3797580a1d8d58eeca57cf2bd2/2025-07-01 12_27_21-R_seau v_lo et marche.png",
+    "pays": "fr",
+    "sig": 1,
+    "pictoPublic": null,
+    "today": "01/10/2026",
+    "total": 65663,
+    "lastDay": 224,
+    "moyD": 180,
+    "totalLY": null,
+    "lastDay8": null,
+    "moyDLY": null,
+    "nbDays": null,
+    "nbDaysLY": null
+  },
+  {
+    "token": null,
+    "id_pdc_img": 300026489,
+    "idPdc": 300038386,
+    "lat": 47.9150345,
+    "lon": 1.8460926,
+    "nom": "Piste Rte d'Orléans",
+    "publicMessage": null,
+    "photo": [
+      {
+        "lien": "https://filer.eco-counter-tools.com/file/bb/41c4989b788d7d7cc8f2e8c40e58a10dc29322c813bfc5977d16c353124b22bb/X2H18024557_20220809105112.jpg"
+      },
+      {
+        "lien": "https://filer.eco-counter-tools.com/file/d5/8f9d40b84d1290cd018313dbd3997ba3054db365afaec30c888dadffe6c305d5/X2H18024557_20220809104943.jpg"
+      },
+      {
+        "lien": "https://filer.eco-counter-tools.com/file/d8/e7cb1051f0a015f22d09b1992e02c3b3a9f9ba94baeebfc41454a22c91433ed8/X2H18024557_20220809104959.jpg"
+      }
+    ],
+    "lienPublic": null,
+    "pratique": [
+      {
+        "pratique": 2,
+        "id": 353417016
+      },
+      {
+        "pratique": 2,
+        "id": 353417017
+      },
+      {
+        "pratique": 2,
+        "id": 353417018
+      },
+      {
+        "pratique": 2,
+        "id": 353417019
+      }
+    ],
+    "mainPratique": 2,
+    "filtre": null,
+    "formule_site": null,
+    "fin": "01/01/2025",
+    "debut": "01/01/2013",
+    "finPeriode": "01/01/2026",
+    "debutPeriode": "01/01/2025",
+    "current_year_default": 0,
+    "externalUrl": "",
+    "nomOrganisme": "Réseau vélo et marche",
+    "logo": "https://filer.eco-counter-tools.com/file/d2/c2693bfa7f64e8d8d35fa40fe065bd2f40a6ad3797580a1d8d58eeca57cf2bd2/2025-07-01 12_27_21-R_seau v_lo et marche.png",
+    "pays": "fr",
+    "sig": 1,
+    "pictoPublic": null,
+    "today": "01/10/2026",
+    "total": 31959,
+    "lastDay": 109,
+    "moyD": 88,
+    "totalLY": null,
+    "lastDay8": null,
+    "moyDLY": null,
+    "nbDays": null,
+    "nbDaysLY": null
+  },
+  {
+    "token": null,
+    "id_pdc_img": 300034036,
+    "idPdc": 300038387,
+    "lat": 47.859722,
+    "lon": 1.920862,
+    "nom": "Pont Cotelle bande cyclable",
+    "publicMessage": null,
+    "photo": [
+      {
+        "lien": "https://filer.eco-counter-tools.com/file/bb/6b7b70064a74d488e1da2a543bcfedcef9c3039266b7d23d139279b8fcc65dbb/CotellePisteEst1.jpg"
+      }
+    ],
+    "lienPublic": null,
+    "pratique": [
+      {
+        "pratique": 2,
+        "id": 353417027
+      },
+      {
+        "pratique": 2,
+        "id": 353417028
+      },
+      {
+        "pratique": 2,
+        "id": 353753310
+      }
+    ],
+    "mainPratique": 2,
+    "filtre": null,
+    "formule_site": null,
+    "fin": "01/01/2025",
+    "debut": "01/01/2013",
+    "finPeriode": "01/01/2026",
+    "debutPeriode": "01/01/2025",
+    "current_year_default": 0,
+    "externalUrl": "",
+    "nomOrganisme": "Réseau vélo et marche",
+    "logo": "https://filer.eco-counter-tools.com/file/d2/c2693bfa7f64e8d8d35fa40fe065bd2f40a6ad3797580a1d8d58eeca57cf2bd2/2025-07-01 12_27_21-R_seau v_lo et marche.png",
+    "pays": "fr",
+    "sig": 1,
+    "pictoPublic": null,
+    "today": "01/10/2026",
+    "total": 0,
+    "lastDay": 73,
+    "moyD": 0,
+    "totalLY": null,
+    "lastDay8": null,
+    "moyDLY": null,
+    "nbDays": null,
+    "nbDaysLY": null
+  },
+  {
+    "token": null,
+    "id_pdc_img": 300034031,
+    "idPdc": 300038388,
+    "lat": 47.859875,
+    "lon": 1.9207883,
+    "nom": "Pont Cotelle piste mixte Ouest",
+    "publicMessage": null,
+    "photo": [
+      {
+        "lien": "https://filer.eco-counter-tools.com/file/2f/241ff357d2804ad55fcc96cf22b5a5811a5baa238acbdba8ecb83bd63714132f/CotellePisteOuest2.jpg"
+      },
+      {
+        "lien": "https://filer.eco-counter-tools.com/file/e8/f29c828eff18941f96c5cec5182d5de689d7894a154baf9348a8d9f4f78e40e8/CotellePisteOuest1.jpg"
+      }
+    ],
+    "lienPublic": null,
+    "pratique": [
+      {
+        "pratique": 2,
+        "id": 353417031
+      },
+      {
+        "pratique": 2,
+        "id": 353417032
+      }
+    ],
+    "mainPratique": 2,
+    "filtre": null,
+    "formule_site": null,
+    "fin": "01/01/2025",
+    "debut": "01/01/2013",
+    "finPeriode": "01/01/2026",
+    "debutPeriode": "01/01/2025",
+    "current_year_default": 0,
+    "externalUrl": "",
+    "nomOrganisme": "Réseau vélo et marche",
+    "logo": "https://filer.eco-counter-tools.com/file/d2/c2693bfa7f64e8d8d35fa40fe065bd2f40a6ad3797580a1d8d58eeca57cf2bd2/2025-07-01 12_27_21-R_seau v_lo et marche.png",
+    "pays": "fr",
+    "sig": 1,
+    "pictoPublic": null,
+    "today": "01/10/2026",
+    "total": 37564,
+    "lastDay": 113,
+    "moyD": 103,
+    "totalLY": null,
+    "lastDay8": null,
+    "moyDLY": null,
+    "nbDays": null,
+    "nbDaysLY": null
+  },
+  {
+    "token": null,
+    "id_pdc_img": 100025529,
+    "idPdc": 300038390,
+    "lat": 47.89344,
+    "lon": 1.87636,
+    "nom": "Pont de l'EUROPE Est",
+    "publicMessage": null,
+    "photo": [
+      {
+        "lien": "https://filer.eco-counter-tools.com/file/5d/cfc429a83602255fe31cb4e37ee7b8865796cb098cbd845fc80eb0914ee3e35d/15688074012700.jpg"
+      },
+      {
+        "lien": "https://filer.eco-counter-tools.com/file/c2/7f405f137636d03b6552468189db279ac0ff77127a520cb0d77565bf448324c2/14587519237310.jpg"
+      }
+    ],
+    "lienPublic": null,
+    "pratique": [
+      {
+        "pratique": 2,
+        "id": 353417046
+      },
+      {
+        "pratique": 2,
+        "id": 353417047
+      },
+      {
+        "pratique": 2,
+        "id": 353417048
+      },
+      {
+        "pratique": 2,
+        "id": 353417049
+      }
+    ],
+    "mainPratique": 2,
+    "filtre": null,
+    "formule_site": null,
+    "fin": "01/01/2025",
+    "debut": "01/01/2013",
+    "finPeriode": "01/01/2026",
+    "debutPeriode": "01/01/2025",
+    "current_year_default": 0,
+    "externalUrl": "",
+    "nomOrganisme": "Réseau vélo et marche",
+    "logo": "https://filer.eco-counter-tools.com/file/d2/c2693bfa7f64e8d8d35fa40fe065bd2f40a6ad3797580a1d8d58eeca57cf2bd2/2025-07-01 12_27_21-R_seau v_lo et marche.png",
+    "pays": "fr",
+    "sig": 1,
+    "pictoPublic": null,
+    "today": "01/10/2026",
+    "total": 133272,
+    "lastDay": 241,
+    "moyD": 365,
+    "totalLY": null,
+    "lastDay8": null,
+    "moyDLY": null,
+    "nbDays": null,
+    "nbDaysLY": null
+  },
+  {
+    "token": null,
+    "id_pdc_img": 100025528,
+    "idPdc": 300038391,
+    "lat": 47.89344,
+    "lon": 1.87614,
+    "nom": "Pont de l'EUROPE Ouest",
+    "publicMessage": null,
+    "photo": [
+      {
+        "lien": "https://filer.eco-counter-tools.com/file/76/1c568501dda3f46b27d7909f6184975d8861d25c12b541442c4a1c02a69a8f76/15688092395500.jpg"
+      },
+      {
+        "lien": "https://filer.eco-counter-tools.com/file/f9/2d25332efb63de7e9d5d776c1987da9f72662cd285afed9905e92da8b2b746f9/14587521364820.jpg"
+      }
+    ],
+    "lienPublic": null,
+    "pratique": [
+      {
+        "pratique": 2,
+        "id": 353417057
+      },
+      {
+        "pratique": 2,
+        "id": 353417058
+      },
+      {
+        "pratique": 2,
+        "id": 353417059
+      },
+      {
+        "pratique": 2,
+        "id": 353417060
+      }
+    ],
+    "mainPratique": 2,
+    "filtre": null,
+    "formule_site": null,
+    "fin": "01/01/2025",
+    "debut": "01/01/2013",
+    "finPeriode": "01/01/2026",
+    "debutPeriode": "01/01/2025",
+    "current_year_default": 0,
+    "externalUrl": "",
+    "nomOrganisme": "Réseau vélo et marche",
+    "logo": "https://filer.eco-counter-tools.com/file/d2/c2693bfa7f64e8d8d35fa40fe065bd2f40a6ad3797580a1d8d58eeca57cf2bd2/2025-07-01 12_27_21-R_seau v_lo et marche.png",
+    "pays": "fr",
+    "sig": 1,
+    "pictoPublic": null,
+    "today": "01/10/2026",
+    "total": 65233,
+    "lastDay": 129,
+    "moyD": 179,
+    "totalLY": null,
+    "lastDay8": null,
+    "moyDLY": null,
+    "nbDays": null,
+    "nbDaysLY": null
+  },
+  {
+    "token": null,
+    "id_pdc_img": 100025524,
+    "idPdc": 300038392,
+    "lat": 47.89503,
+    "lon": 1.90455,
+    "nom": "Pont George V (Chaussée Est)",
+    "publicMessage": null,
+    "photo": [
+      {
+        "lien": "https://filer.eco-counter-tools.com/file/03/0c119f4c1d7cee4e19e8cf898e2cd4034d50cbb038788a582f2ce4c83cee5003/14508769443850.jpg"
+      },
+      {
+        "lien": "https://filer.eco-counter-tools.com/file/0a/b90ec1da1e4c88e3d6520a8a524b096a3d069a07e1eee63fabb06afe8b089c0a/15698288358310.jpg"
+      },
+      {
+        "lien": "https://filer.eco-counter-tools.com/file/9e/0d7852181e04210da4178d65913b2aa3c8c499622c632df07570cb0193e7bc9e/X2H19070416_20201029103245.jpg"
+      },
+      {
+        "lien": "https://filer.eco-counter-tools.com/file/b7/a9c7aebd99d37dd666143f7ec43723e57cd74789b42c37e0d39f75afcd3660b7/X2H19070416_20211012125946.jpg"
+      }
+    ],
+    "lienPublic": null,
+    "pratique": [
+      {
+        "pratique": 2,
+        "id": 353417068
+      },
+      {
+        "pratique": 2,
+        "id": 353752859
+      },
+      {
+        "pratique": 2,
+        "id": 353752860
+      }
+    ],
+    "mainPratique": 2,
+    "filtre": null,
+    "formule_site": null,
+    "fin": "01/01/2025",
+    "debut": "01/01/2013",
+    "finPeriode": "01/01/2026",
+    "debutPeriode": "01/01/2025",
+    "current_year_default": 0,
+    "externalUrl": "",
+    "nomOrganisme": "Réseau vélo et marche",
+    "logo": "https://filer.eco-counter-tools.com/file/d2/c2693bfa7f64e8d8d35fa40fe065bd2f40a6ad3797580a1d8d58eeca57cf2bd2/2025-07-01 12_27_21-R_seau v_lo et marche.png",
+    "pays": "fr",
+    "sig": 1,
+    "pictoPublic": null,
+    "today": "01/10/2026",
+    "total": 107884,
+    "lastDay": 167,
+    "moyD": 296,
+    "totalLY": null,
+    "lastDay8": null,
+    "moyDLY": null,
+    "nbDays": null,
+    "nbDaysLY": null
+  },
+  {
+    "token": null,
+    "id_pdc_img": 100025532,
+    "idPdc": 300038393,
+    "lat": 47.89786133255965,
+    "lon": 1.9041741639648535,
+    "nom": "Pont George V (Piste cyclable)",
+    "publicMessage": null,
+    "photo": [
+      {
+        "lien": "https://filer.eco-counter-tools.com/file/03/24b02beb33ce7af79c85e2c36131a2abcf502ae9b9d66dbe3706ee7239538b03/15688843094400.jpg"
+      },
+      {
+        "lien": "https://filer.eco-counter-tools.com/file/2c/21a81b2d0ba98ff0af38ddc9f48400ae3594b6302432f9bfd0c92ac96c27152c/14508763811570.jpg"
+      }
+    ],
+    "lienPublic": null,
+    "pratique": [
+      {
+        "pratique": 2,
+        "id": 353417069
+      }
+    ],
+    "mainPratique": 2,
+    "filtre": null,
+    "formule_site": null,
+    "fin": "01/01/2025",
+    "debut": "01/01/2013",
+    "finPeriode": "01/01/2026",
+    "debutPeriode": "01/01/2025",
+    "current_year_default": 0,
+    "externalUrl": "",
+    "nomOrganisme": "Réseau vélo et marche",
+    "logo": "https://filer.eco-counter-tools.com/file/d2/c2693bfa7f64e8d8d35fa40fe065bd2f40a6ad3797580a1d8d58eeca57cf2bd2/2025-07-01 12_27_21-R_seau v_lo et marche.png",
+    "pays": "fr",
+    "sig": 1,
+    "pictoPublic": null,
+    "today": "01/10/2026",
+    "total": 1136447,
+    "lastDay": 4766,
+    "moyD": 3114,
+    "totalLY": null,
+    "lastDay8": null,
+    "moyDLY": null,
+    "nbDays": null,
+    "nbDaysLY": null
+  },
+  {
+    "token": null,
+    "id_pdc_img": 100025531,
+    "idPdc": 300038394,
+    "lat": 47.87197,
+    "lon": 1.83996,
+    "nom": "Pont St NICOLAS",
+    "publicMessage": null,
+    "photo": [
+      {
+        "lien": "https://filer.eco-counter-tools.com/file/0b/0c76e08bf31aef1a3ebd53382283fd7a800ac80f3fa5e5ef394dfa60fa986c0b/14587490789440.jpg"
+      },
+      {
+        "lien": "https://filer.eco-counter-tools.com/file/1c/5168a9e352420c88e60ba4c60d4eae540b06027bdaeff5ff9d5de050552f151c/15688031123490.jpg"
+      },
+      {
+        "lien": "https://filer.eco-counter-tools.com/file/43/5d76ab6e2329848bba608a6662f06a69af8ab1c29a89402d15665e5b4c233143/X2H18024556_20201028162531.jpg"
+      },
+      {
+        "lien": "https://filer.eco-counter-tools.com/file/c9/5124eb27bcc65034c3b67f8b2d17369f32a85ce544bf62496939ad0271745ec9/X2H18024556_20220630102734.jpg"
+      },
+      {
+        "lien": "https://filer.eco-counter-tools.com/file/ec/d9cf03bd719811acbc0a9c0782d32ab7716b2b1adfb7ff67a37c2080a66dcfec/X2H18024556_20211012095724.jpg"
+      }
+    ],
+    "lienPublic": null,
+    "pratique": [
+      {
+        "pratique": 2,
+        "id": 353417070
+      },
+      {
+        "pratique": 2,
+        "id": 353417071
+      },
+      {
+        "pratique": 2,
+        "id": 353417072
+      }
+    ],
+    "mainPratique": 2,
+    "filtre": null,
+    "formule_site": null,
+    "fin": "01/01/2025",
+    "debut": "01/01/2013",
+    "finPeriode": "01/01/2026",
+    "debutPeriode": "01/01/2025",
+    "current_year_default": 0,
+    "externalUrl": "",
+    "nomOrganisme": "Réseau vélo et marche",
+    "logo": "https://filer.eco-counter-tools.com/file/d2/c2693bfa7f64e8d8d35fa40fe065bd2f40a6ad3797580a1d8d58eeca57cf2bd2/2025-07-01 12_27_21-R_seau v_lo et marche.png",
+    "pays": "fr",
+    "sig": 1,
+    "pictoPublic": null,
+    "today": "01/10/2026",
+    "total": 228949,
+    "lastDay": 499,
+    "moyD": 627,
+    "totalLY": null,
+    "lastDay8": null,
+    "moyDLY": null,
+    "nbDays": null,
+    "nbDaysLY": null
+  },
+  {
+    "token": null,
+    "id_pdc_img": 100025533,
+    "idPdc": 300038395,
+    "lat": 47.89934,
+    "lon": 1.92054,
+    "nom": "Pont Thinat",
+    "publicMessage": null,
+    "photo": [
+      {
+        "lien": "https://filer.eco-counter-tools.com/file/36/a81aafe62def60a6a4dafc0a87c21ee0035c58f78db123424f6a6f40eff82036/14587500425420.jpg"
+      },
+      {
+        "lien": "https://filer.eco-counter-tools.com/file/80/3b26d5fea59619118e9ea793bfeb1747fe84c1d7814096cafc5e9b2166c21480/15688876835940.jpg"
+      }
+    ],
+    "lienPublic": null,
+    "pratique": [
+      {
+        "pratique": 2,
+        "id": 353417074
+      },
+      {
+        "pratique": 2,
+        "id": 353417075
+      }
+    ],
+    "mainPratique": 2,
+    "filtre": null,
+    "formule_site": null,
+    "fin": "01/01/2025",
+    "debut": "01/01/2013",
+    "finPeriode": "01/01/2026",
+    "debutPeriode": "01/01/2025",
+    "current_year_default": 0,
+    "externalUrl": "",
+    "nomOrganisme": "Réseau vélo et marche",
+    "logo": "https://filer.eco-counter-tools.com/file/d2/c2693bfa7f64e8d8d35fa40fe065bd2f40a6ad3797580a1d8d58eeca57cf2bd2/2025-07-01 12_27_21-R_seau v_lo et marche.png",
+    "pays": "fr",
+    "sig": 1,
+    "pictoPublic": null,
+    "today": "01/10/2026",
+    "total": 362400,
+    "lastDay": 1151,
+    "moyD": 993,
+    "totalLY": null,
+    "lastDay8": null,
+    "moyDLY": null,
+    "nbDays": null,
+    "nbDaysLY": null
+  },
+  {
+    "token": null,
+    "id_pdc_img": 100044030,
+    "idPdc": 300038396,
+    "lat": 47.84369,
+    "lon": 1.94545,
+    "nom": "Recherche Scientifique",
+    "publicMessage": null,
+    "photo": [
+      {
+        "lien": "https://filer.eco-counter-tools.com/file/06/33beebbd8eadb644b7800b5f6a4c71e6e44f62150ddfd4acdef3693469a90806/15688776617470.jpg"
+      },
+      {
+        "lien": "https://filer.eco-counter-tools.com/file/49/3fc2bb7c9f4116ad92560987e4db913ce1afb68413c7109abdccfa9ff0eae749/15248310590780.jpg"
+      },
+      {
+        "lien": "https://filer.eco-counter-tools.com/file/cc/7503166555b868ad8e8e4d1c5faa909aa4f04b9fa90ec0bddd6be9c9ad8478cc/15248310590831.jpg"
+      }
+    ],
+    "lienPublic": null,
+    "pratique": [
+      {
+        "pratique": 2,
+        "id": 353417078
+      },
+      {
+        "pratique": 2,
+        "id": 353417079
+      },
+      {
+        "pratique": 2,
+        "id": 353417080
+      },
+      {
+        "pratique": 2,
+        "id": 353417081
+      }
+    ],
+    "mainPratique": 2,
+    "filtre": null,
+    "formule_site": null,
+    "fin": "01/01/2025",
+    "debut": "01/01/2013",
+    "finPeriode": "01/01/2026",
+    "debutPeriode": "01/01/2025",
+    "current_year_default": 0,
+    "externalUrl": "",
+    "nomOrganisme": "Réseau vélo et marche",
+    "logo": "https://filer.eco-counter-tools.com/file/d2/c2693bfa7f64e8d8d35fa40fe065bd2f40a6ad3797580a1d8d58eeca57cf2bd2/2025-07-01 12_27_21-R_seau v_lo et marche.png",
+    "pays": "fr",
+    "sig": 1,
+    "pictoPublic": null,
+    "today": "01/10/2026",
+    "total": 1447,
+    "lastDay": 319,
+    "moyD": 96,
+    "totalLY": null,
+    "lastDay8": null,
+    "moyDLY": null,
+    "nbDays": null,
+    "nbDaysLY": null
+  },
+  {
+    "token": null,
+    "id_pdc_img": 100025526,
+    "idPdc": 300038397,
+    "lat": 47.8995,
+    "lon": 1.96178,
+    "nom": "Bois de l'Ile",
+    "publicMessage": null,
+    "photo": [
+      {
+        "lien": "https://filer.eco-counter-tools.com/file/35/191267a2e2f025cb50083ad2333d756bd0f6bf99828a8a5b99ef383a12dfd235/15688192777920.jpg"
+      },
+      {
+        "lien": "https://filer.eco-counter-tools.com/file/41/2522fa735da3a8ae6d710a12924a98e436de84f9d5d50d5f90c458c73089ec41/X2H18024564_20201029101044.jpg"
+      },
+      {
+        "lien": "https://filer.eco-counter-tools.com/file/47/317da1bd2810cbccec47d717df949d6c1e1f73d574b7296f9a18db929cda2b47/X2H18024564_20211012161327.jpg"
+      },
+      {
+        "lien": "https://filer.eco-counter-tools.com/file/fe/ec9b953c04fdf69f7a08eec25426f6675a13faf49aad24262ebe172c176e25fe/14570027914230.jpg"
+      }
+    ],
+    "lienPublic": null,
+    "pratique": [
+      {
+        "pratique": 2,
+        "id": 353417086
+      },
+      {
+        "pratique": 2,
+        "id": 353417087
+      }
+    ],
+    "mainPratique": 2,
+    "filtre": null,
+    "formule_site": null,
+    "fin": "01/01/2025",
+    "debut": "01/01/2013",
+    "finPeriode": "01/01/2026",
+    "debutPeriode": "01/01/2025",
+    "current_year_default": 0,
+    "externalUrl": "",
+    "nomOrganisme": "Réseau vélo et marche",
+    "logo": "https://filer.eco-counter-tools.com/file/d2/c2693bfa7f64e8d8d35fa40fe065bd2f40a6ad3797580a1d8d58eeca57cf2bd2/2025-07-01 12_27_21-R_seau v_lo et marche.png",
+    "pays": "fr",
+    "sig": 1,
+    "pictoPublic": null,
+    "today": "01/10/2026",
+    "total": 29408,
+    "lastDay": 0,
+    "moyD": 81,
+    "totalLY": null,
+    "lastDay8": null,
+    "moyDLY": null,
+    "nbDays": null,
+    "nbDaysLY": null
+  },
+  {
+    "token": null,
+    "id_pdc_img": 300036916,
+    "idPdc": 300038398,
+    "lat": 47.89050602365037,
+    "lon": 1.992899224205758,
+    "nom": "PDL-Montjoie Nouvelle entrée Est",
+    "publicMessage": null,
+    "photo": [],
+    "lienPublic": null,
+    "pratique": [
+      {
+        "pratique": 2,
+        "id": 353417092
+      },
+      {
+        "pratique": 2,
+        "id": 353417093
+      }
+    ],
+    "mainPratique": 2,
+    "filtre": null,
+    "formule_site": null,
+    "fin": "01/01/2025",
+    "debut": "01/01/2013",
+    "finPeriode": "01/01/2026",
+    "debutPeriode": "01/01/2025",
+    "current_year_default": 0,
+    "externalUrl": "",
+    "nomOrganisme": "Réseau vélo et marche",
+    "logo": "https://filer.eco-counter-tools.com/file/d2/c2693bfa7f64e8d8d35fa40fe065bd2f40a6ad3797580a1d8d58eeca57cf2bd2/2025-07-01 12_27_21-R_seau v_lo et marche.png",
+    "pays": "fr",
+    "sig": 1,
+    "pictoPublic": null,
+    "today": "01/10/2026",
+    "total": 41203,
+    "lastDay": 9,
+    "moyD": 115,
+    "totalLY": null,
+    "lastDay8": null,
+    "moyDLY": null,
+    "nbDays": null,
+    "nbDaysLY": null
+  },
+  {
+    "token": null,
+    "id_pdc_img": 300038435,
+    "idPdc": 300054808,
+    "lat": 47.89046796918973,
+    "lon": 2.0290371403098106,
+    "nom": "Checy",
+    "publicMessage": null,
+    "photo": [
+      {
+        "lien": "https://filer.eco-counter-tools.com/file/2b/72ce0e7113805676307020b5d951b11435b4dc08bb85a2effb203a86117bb32b/X2H23111607_20231221143908.jpg"
+      }
+    ],
+    "lienPublic": null,
+    "pratique": [
+      {
+        "pratique": 2,
+        "id": 353559928
+      },
+      {
+        "pratique": 2,
+        "id": 353559929
+      },
+      {
+        "pratique": 2,
+        "id": 353559930
+      },
+      {
+        "pratique": 2,
+        "id": 353559931
+      }
+    ],
+    "mainPratique": 2,
+    "filtre": null,
+    "formule_site": null,
+    "fin": "01/01/2025",
+    "debut": "01/01/2013",
+    "finPeriode": "01/01/2026",
+    "debutPeriode": "01/01/2025",
+    "current_year_default": 0,
+    "externalUrl": "",
+    "nomOrganisme": "Réseau vélo et marche",
+    "logo": "https://filer.eco-counter-tools.com/file/d2/c2693bfa7f64e8d8d35fa40fe065bd2f40a6ad3797580a1d8d58eeca57cf2bd2/2025-07-01 12_27_21-R_seau v_lo et marche.png",
+    "pays": "fr",
+    "sig": 1,
+    "pictoPublic": null,
+    "today": "01/10/2026",
+    "total": 72730,
+    "lastDay": 72,
+    "moyD": 199,
+    "totalLY": null,
+    "lastDay8": null,
+    "moyDLY": null,
+    "nbDays": null,
+    "nbDaysLY": null
+  },
+  {
+    "token": null,
+    "id_pdc_img": 300032119,
+    "idPdc": 300054810,
+    "lat": 47.82331993919393,
+    "lon": 1.700202003121376,
+    "nom": "Pont Meung-Sur-Loire",
+    "publicMessage": null,
+    "photo": [
+      {
+        "lien": "https://filer.eco-counter-tools.com/file/d8/f6badb567eb6b1a20e5e00bf93d03421a958b51b55da6bbaa37839e3256da6d8/X2H23046056 Pont Meung-sur-Loire.jpg"
+      }
+    ],
+    "lienPublic": null,
+    "pratique": [
+      {
+        "pratique": 2,
+        "id": 353559943
+      },
+      {
+        "pratique": 2,
+        "id": 353559944
+      }
+    ],
+    "mainPratique": 2,
+    "filtre": null,
+    "formule_site": null,
+    "fin": "01/01/2025",
+    "debut": "01/01/2013",
+    "finPeriode": "01/01/2026",
+    "debutPeriode": "01/01/2025",
+    "current_year_default": 0,
+    "externalUrl": "",
+    "nomOrganisme": "Réseau vélo et marche",
+    "logo": "https://filer.eco-counter-tools.com/file/d2/c2693bfa7f64e8d8d35fa40fe065bd2f40a6ad3797580a1d8d58eeca57cf2bd2/2025-07-01 12_27_21-R_seau v_lo et marche.png",
+    "pays": "fr",
+    "sig": 1,
+    "pictoPublic": null,
+    "today": "01/10/2026",
+    "total": 38094,
+    "lastDay": 88,
+    "moyD": 105,
+    "totalLY": null,
+    "lastDay8": null,
+    "moyDLY": null,
+    "nbDays": null,
+    "nbDaysLY": null
+  },
+  {
+    "token": null,
+    "id_pdc_img": 300063326,
+    "idPdc": 300071750,
+    "lat": 47.92276871,
+    "lon": 1.87523961,
+    "nom": "Passerelle Les Chaises",
+    "publicMessage": null,
+    "photo": [
+      {
+        "lien": "https://filer.eco-counter-tools.com/file/3a/31612d18a6a18357bf9d49bb2253039d922bc590ef156bcb822c45dbd90e413a/MLT25091393_1765969181133.jpg"
+      },
+      {
+        "lien": "https://filer.eco-counter-tools.com/file/af/3f922f91c9938d2091b1bc95d689581301a8c50a3e7d080aee92a6df533d9eaf/MLT25091393_OUT.jpg"
+      },
+      {
+        "lien": "https://filer.eco-counter-tools.com/file/ba/41f892b186d6cb38d971dad38298910bb126224f74cff210ee2d13eba4e544ba/MLT25091393_IN.jpg"
+      },
+      {
+        "lien": "https://filer.eco-counter-tools.com/file/d7/8726be96ec357107dc5ff8b43d972a5f6ee4a25aefe4467b0df4a1d800437ad7/MLT25091393_1765969162265.jpg"
+      }
+    ],
+    "lienPublic": null,
+    "pratique": [
+      {
+        "pratique": 2,
+        "id": 353778884
+      },
+      {
+        "pratique": 2,
+        "id": 353778885
+      }
+    ],
+    "mainPratique": 2,
+    "filtre": null,
+    "formule_site": null,
+    "fin": "01/01/2025",
+    "debut": "01/01/2013",
+    "finPeriode": "01/01/2026",
+    "debutPeriode": "01/01/2025",
+    "current_year_default": 0,
+    "externalUrl": "",
+    "nomOrganisme": "Réseau vélo et marche",
+    "logo": "https://filer.eco-counter-tools.com/file/d2/c2693bfa7f64e8d8d35fa40fe065bd2f40a6ad3797580a1d8d58eeca57cf2bd2/2025-07-01 12_27_21-R_seau v_lo et marche.png",
+    "pays": "fr",
+    "sig": 1,
+    "pictoPublic": null,
+    "today": "01/10/2026",
+    "total": 0,
+    "lastDay": 50,
+    "moyD": 0,
+    "totalLY": null,
+    "lastDay8": null,
+    "moyDLY": null,
+    "nbDays": null,
+    "nbDaysLY": null
+  }
+]
