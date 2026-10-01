@@ -491,6 +491,51 @@
           "geometry": {
             "coordinates": [
               [
+                1.903285,
+                47.919182
+              ],
+              [
+                1.903397,
+                47.919319
+              ],
+              [
+                1.90351,
+                47.919405
+              ],
+              [
+                1.903789,
+                47.919991
+              ],
+              [
+                1.903896,
+                47.920088
+              ],
+              [
+                1.904041,
+                47.920372
+              ],
+              [
+                1.904224,
+                47.92057
+              ],
+              [
+                1.904299,
+                47.920732
+              ]
+            ],
+            "type": "LineString"
+          },
+          "id": "HqknG",
+          "properties": {
+            "description": "La remontée vers le nord\n* traverse la gare de bus longue distance\n* monte sur le trottoir partagé avec les piétons\n* abouti à une intersection dangereuse avec la rue de la Bourie Rouge",
+            "name": "Parc des Manufactures (sud)"
+          },
+          "type": "Feature"
+        },
+        {
+          "geometry": {
+            "coordinates": [
+              [
                 [
                   1.920552,
                   47.931132
