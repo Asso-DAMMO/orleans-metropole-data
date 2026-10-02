@@ -89,6 +89,21 @@
         {
           "geometry": {
             "coordinates": [
+              1.922015,
+              47.922333
+            ],
+            "type": "Point"
+          },
+          "id": "65D2N",
+          "properties": {
+            "description": "Difficile à passer en vélo",
+            "name": "Filtre modal St Marc Normandie-Niemen"
+          },
+          "type": "Feature"
+        },
+        {
+          "geometry": {
+            "coordinates": [
               1.908185,
               47.926579
             ],
@@ -156,55 +171,6 @@
         {
           "geometry": {
             "coordinates": [
-              [
-                1.912533,
-                47.914544
-              ],
-              [
-                1.910688,
-                47.915494
-              ],
-              [
-                1.9094,
-                47.916479
-              ],
-              [
-                1.908467,
-                47.917406
-              ],
-              [
-                1.907823,
-                47.918312
-              ],
-              [
-                1.907448,
-                47.919082
-              ],
-              [
-                1.907136,
-                47.919801
-              ],
-              [
-                1.906976,
-                47.920714
-              ],
-              [
-                1.907083,
-                47.921181
-              ]
-            ],
-            "type": "LineString"
-          },
-          "id": "aSyxD",
-          "properties": {
-            "description": "Les trottoirs sont inexistants, les piétons marchent sur les pistes cyclables",
-            "name": "Trottoir Bd Victor Hugo"
-          },
-          "type": "Feature"
-        },
-        {
-          "geometry": {
-            "coordinates": [
               1.912168,
               47.928974
             ],
@@ -262,10 +228,14 @@
             "type": "Text"
           }
         ],
-        "iconUrl": "/uploads/pictogram/bicycle-share.svg",
+        "fillColor": "indigo",
+        "fillOpacity": 0.5,
+        "iconOpacity": 0.5,
+        "iconUrl": "/uploads/pictogram/doityourself.svg",
         "inCaption": true,
         "name": "Equipement",
-        "remoteData": {}
+        "remoteData": {},
+        "weight": 4
       },
       "rank": 1,
       "type": "FeatureCollection"
@@ -383,6 +353,7 @@
       "properties": {
         "browsable": true,
         "color": "Maroon",
+        "description": "Sur trottoir\nSur piste cyclable",
         "displayOnLoad": true,
         "fields": [
           {
@@ -395,15 +366,281 @@
           }
         ],
         "fillColor": "Maroon",
-        "fillOpacity": 0.4,
-        "iconUrl": "/uploads/pictogram/taxi.svg",
+        "fillOpacity": 0.5,
+        "iconOpacity": 0.5,
+        "iconUrl": "/uploads/pictogram/car.svg",
         "inCaption": true,
         "name": "Stationnement gênant",
-        "opacity": 1,
+        "opacity": 0.5,
         "remoteData": {},
         "weight": 4
       },
       "rank": 2,
+      "type": "FeatureCollection"
+    },
+    {
+      "features": [
+        {
+          "geometry": {
+            "coordinates": [
+              [
+                1.900678,
+                47.927724
+              ],
+              [
+                1.90571,
+                47.928716
+              ]
+            ],
+            "type": "LineString"
+          },
+          "id": "20SuD",
+          "properties": {
+            "description": "Trottoir trop étroit, piste cyclable bidirectionnelle trop étroite, non-respect du 30 km/h pour les véhicules à moteur\n",
+            "name": "Tunnel du Champ Bouchaud"
+          },
+          "type": "Feature"
+        },
+        {
+          "geometry": {
+            "coordinates": [
+              1.93864,
+              47.89431
+            ],
+            "type": "Point"
+          },
+          "id": "80JSY",
+          "properties": {
+            "description": "La piste cyclable se termine brusquement devant l'ile Charlemagne",
+            "name": "Fin piste cyclable Chevauchée"
+          },
+          "type": "Feature"
+        },
+        {
+          "geometry": {
+            "coordinates": [
+              [
+                1.89556,
+                47.936731
+              ],
+              [
+                1.895882,
+                47.935997
+              ],
+              [
+                1.896086,
+                47.935322
+              ],
+              [
+                1.896375,
+                47.934085
+              ]
+            ],
+            "type": "LineString"
+          },
+          "id": "ARErg",
+          "properties": {
+            "description": "Vers le sud, la piste se termine brusquement, conflit avec les sorties de la plateforme du bâtiment et du concessionaire.\nImportant car dessert ChapitO / stade de la Vallée\nVoir la pointe nord du parc des Manufactures",
+            "name": "Piste Avenue André Dessaux"
+          },
+          "type": "Feature"
+        },
+        {
+          "geometry": {
+            "coordinates": [
+              [
+                1.903285,
+                47.919182
+              ],
+              [
+                1.903397,
+                47.919319
+              ],
+              [
+                1.90351,
+                47.919405
+              ],
+              [
+                1.903789,
+                47.919991
+              ],
+              [
+                1.903896,
+                47.920088
+              ],
+              [
+                1.904041,
+                47.920372
+              ],
+              [
+                1.904224,
+                47.92057
+              ],
+              [
+                1.904299,
+                47.920732
+              ]
+            ],
+            "type": "LineString"
+          },
+          "id": "ILFZs",
+          "properties": {
+            "description": "La remontée vers le nord\n* traverse la gare de bus longue distance\n* monte sur le trottoir partagé avec les piétons\n* abouti à une intersection dangereuse avec la rue de la Bourie Rouge",
+            "name": "Parc des Manufactures (sud)"
+          },
+          "type": "Feature"
+        },
+        {
+          "geometry": {
+            "coordinates": [
+              1.912989,
+              47.932145
+            ],
+            "type": "Point"
+          },
+          "id": "T4CHg",
+          "properties": {
+            "description": "Manque de marquage pour indiquer le contresens cyclable + manque de visibilité dans le virage",
+            "name": "Contresens Anatole France"
+          },
+          "type": "Feature"
+        },
+        {
+          "geometry": {
+            "coordinates": [
+              [
+                1.904401,
+                47.920853
+              ],
+              [
+                1.904701,
+                47.920946
+              ],
+              [
+                1.905624,
+                47.921176
+              ],
+              [
+                1.906632,
+                47.921219
+              ]
+            ],
+            "type": "LineString"
+          },
+          "id": "cEzdK",
+          "properties": {
+            "description": "Pas de cheminement cyclable sur le pont vers l'Est",
+            "name": "Pont de joie W -> E"
+          },
+          "type": "Feature"
+        },
+        {
+          "geometry": {
+            "coordinates": [
+              1.900711,
+              47.93425
+            ],
+            "type": "Point"
+          },
+          "id": "e9Vw8",
+          "properties": {
+            "description": "Manque de protection bande cyclable dans l'intersection avec la rue Victor Hugo",
+            "name": "Tunnel Ardoise"
+          },
+          "type": "Feature"
+        },
+        {
+          "geometry": {
+            "coordinates": [
+              1.922945,
+              47.893208
+            ],
+            "type": "Point"
+          },
+          "id": "o1tI7",
+          "properties": {
+            "description": "Traversées du tunnel très dangereuse, à double sens sur un trottoir trop étroit",
+            "name": "Tunnel capucins"
+          },
+          "type": "Feature"
+        },
+        {
+          "geometry": {
+            "coordinates": [
+              1.914821,
+              47.91993
+            ],
+            "type": "Point"
+          },
+          "id": "ve6xo",
+          "properties": {
+            "description": "Les véhicules Berthelot -> Leroy coupent l'intersection (absence de marquage\nConflit dangereux avec le M12 tourne à droite de la rue Moine\n",
+            "name": "Intersection Berthelot / Leroy / Moine"
+          },
+          "type": "Feature"
+        },
+        {
+          "geometry": {
+            "coordinates": [
+              [
+                [
+                  1.906793,
+                  47.921533
+                ],
+                [
+                  1.906686,
+                  47.92103
+                ],
+                [
+                  1.907308,
+                  47.921016
+                ],
+                [
+                  1.907265,
+                  47.921533
+                ],
+                [
+                  1.906793,
+                  47.921533
+                ]
+              ]
+            ],
+            "type": "Polygon"
+          },
+          "id": "vyDqA",
+          "properties": {
+            "description": "Cheminement peu clair, manque de visibilité\n",
+            "name": "Carrefour Lamartine / Joie / Hugo"
+          },
+          "type": "Feature"
+        }
+      ],
+      "properties": {
+        "browsable": true,
+        "color": "Orange",
+        "description": "Absence de piste/bande cyclable\nPiste cyclable interrompue\nPiste trop étroite\nPiste en mauvais état\nPiste mal protégée\nSéparation insuffisante avec les voitures\nObstacle sur la piste\nMauvaise signalisation\nContresens cyclable problématique\nFin de piste dangereuse\nConflit avec une voie de bus\nConflit avec les piétons\nAménagement cyclable incohérent",
+        "displayOnLoad": true,
+        "fields": [
+          {
+            "key": "name",
+            "type": "String"
+          },
+          {
+            "key": "description",
+            "type": "Text"
+          }
+        ],
+        "fillColor": "Orange",
+        "fillOpacity": 0.3,
+        "iconOpacity": 0.5,
+        "iconUrl": "/uploads/pictogram/bicycle-share.svg",
+        "inCaption": true,
+        "name": "Cyclistes",
+        "opacity": 0.5,
+        "remoteData": {},
+        "weight": 4
+      },
+      "rank": 3,
       "type": "FeatureCollection"
     },
     {
@@ -447,95 +684,6 @@
           "geometry": {
             "coordinates": [
               [
-                1.904401,
-                47.920853
-              ],
-              [
-                1.904701,
-                47.920946
-              ],
-              [
-                1.905624,
-                47.921176
-              ],
-              [
-                1.906632,
-                47.921219
-              ]
-            ],
-            "type": "LineString"
-          },
-          "id": "5sYWK",
-          "properties": {
-            "description": "Pas de cheminement cyclable sur le pont vers l'Est",
-            "name": "Pont de joie W -> E"
-          },
-          "type": "Feature"
-        },
-        {
-          "geometry": {
-            "coordinates": [
-              1.900711,
-              47.93425
-            ],
-            "type": "Point"
-          },
-          "id": "HRypP",
-          "properties": {
-            "description": "Manque de protection bande cyclable dans l'intersection avec la rue Victor Hugo",
-            "name": "Tunnel Ardoise"
-          },
-          "type": "Feature"
-        },
-        {
-          "geometry": {
-            "coordinates": [
-              [
-                1.903285,
-                47.919182
-              ],
-              [
-                1.903397,
-                47.919319
-              ],
-              [
-                1.90351,
-                47.919405
-              ],
-              [
-                1.903789,
-                47.919991
-              ],
-              [
-                1.903896,
-                47.920088
-              ],
-              [
-                1.904041,
-                47.920372
-              ],
-              [
-                1.904224,
-                47.92057
-              ],
-              [
-                1.904299,
-                47.920732
-              ]
-            ],
-            "type": "LineString"
-          },
-          "id": "HqknG",
-          "properties": {
-            "description": "La remontée vers le nord\n* traverse la gare de bus longue distance\n* monte sur le trottoir partagé avec les piétons\n* abouti à une intersection dangereuse avec la rue de la Bourie Rouge",
-            "name": "Parc des Manufactures (sud)"
-          },
-          "type": "Feature"
-        },
-        {
-          "geometry": {
-            "coordinates": [
-              [
                 [
                   1.920552,
                   47.931132
@@ -570,15 +718,15 @@
         {
           "geometry": {
             "coordinates": [
-              1.93864,
-              47.89431
+              1.91657,
+              47.928227
             ],
             "type": "Point"
           },
-          "id": "WozN7",
+          "id": "TwBFd",
           "properties": {
-            "description": "La piste cyclable se termine brusquement devant l'ile Charlemagne",
-            "name": "Fin piste cyclable Chevauchée"
+            "description": "Le trottoir est suffisamment large, mais est rétréci devant les douanes par de la végétation. Des camions et des pick-up se garent régulièrement à cet endroit, en mordant sur l'espace piétons. A protéger par une barrière",
+            "name": "Trottoir à protéger devant douanes"
           },
           "type": "Feature"
         },
@@ -586,64 +734,48 @@
           "geometry": {
             "coordinates": [
               [
-                1.89556,
-                47.936731
+                1.912533,
+                47.914544
               ],
               [
-                1.895882,
-                47.935997
+                1.910688,
+                47.915494
               ],
               [
-                1.896086,
-                47.935322
+                1.9094,
+                47.916479
               ],
               [
-                1.896375,
-                47.934085
+                1.908467,
+                47.917406
+              ],
+              [
+                1.907823,
+                47.918312
+              ],
+              [
+                1.907448,
+                47.919082
+              ],
+              [
+                1.907136,
+                47.919801
+              ],
+              [
+                1.906976,
+                47.920714
+              ],
+              [
+                1.907083,
+                47.921181
               ]
             ],
             "type": "LineString"
           },
-          "id": "bbI2O",
+          "id": "pWaps",
           "properties": {
-            "description": "Vers le sud, la piste se termine brusquement, conflit avec les sorties de la plateforme du bâtiment et du concessionaire.\nImportant car dessert ChapitO / stade de la Vallée\nVoir la pointe nord du parc des Manufactures",
-            "name": "Piste Avenue André Dessaux"
-          },
-          "type": "Feature"
-        },
-        {
-          "geometry": {
-            "coordinates": [
-              [
-                1.900592,
-                47.927759
-              ],
-              [
-                1.905506,
-                47.92868
-              ]
-            ],
-            "type": "LineString"
-          },
-          "id": "bjENP",
-          "properties": {
-            "description": "Trottoir trop étroit, piste cyclable bidirectionnelle trop étroite, non-respect du 30 km/h pour les véhicules à moteur\n",
-            "name": "Tunnel du Champ Bouchaud"
-          },
-          "type": "Feature"
-        },
-        {
-          "geometry": {
-            "coordinates": [
-              1.912989,
-              47.932145
-            ],
-            "type": "Point"
-          },
-          "id": "jiqz8",
-          "properties": {
-            "description": "Manque de marquage pour indiquer le contresens cyclable + manque de visibilité dans le virage",
-            "name": "Contresens Anatole France"
+            "description": "Les trottoirs sont inexistants, les piétons marchent sur les pistes cyclables",
+            "name": "Trottoir Bd Victor Hugo"
           },
           "type": "Feature"
         },
@@ -652,63 +784,25 @@
             "coordinates": [
               [
                 [
-                  1.906793,
-                  47.921533
+                  1.900656,
+                  47.927774
                 ],
                 [
-                  1.906686,
-                  47.92103
+                  1.905645,
+                  47.928752
                 ],
                 [
-                  1.907308,
-                  47.921016
-                ],
-                [
-                  1.907265,
-                  47.921533
-                ],
-                [
-                  1.906793,
-                  47.921533
+                  1.900656,
+                  47.927774
                 ]
               ]
             ],
             "type": "Polygon"
           },
-          "id": "p8akb",
+          "id": "rvcSF",
           "properties": {
-            "description": "Cheminement peu clair, manque de visibilité\n",
-            "name": "Carrefour Lamartine / Joie / Hugo"
-          },
-          "type": "Feature"
-        },
-        {
-          "geometry": {
-            "coordinates": [
-              1.914821,
-              47.91993
-            ],
-            "type": "Point"
-          },
-          "id": "rvXs1",
-          "properties": {
-            "description": "Les véhicules Berthelot -> Leroy coupent l'intersection (absence de marquage\nConflit avec le M12 tourne à droite de la rue Moine",
-            "name": "Intersection Berthelot / Leroy / Moine"
-          },
-          "type": "Feature"
-        },
-        {
-          "geometry": {
-            "coordinates": [
-              1.922945,
-              47.893208
-            ],
-            "type": "Point"
-          },
-          "id": "tUPZ1",
-          "properties": {
-            "description": "Traversées du tunnel très dangereuse, à double sens sur un trottoir trop étroit",
-            "name": "Tunnel capucins"
+            "description": "Trottoir trop étroit, piste cyclable bidirectionnelle trop étroite, non-respect du 30 km/h pour les véhicules à moteur\n",
+            "name": "Tunnel du Champ Bouchaud"
           },
           "type": "Feature"
         }
@@ -716,7 +810,7 @@
       "properties": {
         "browsable": true,
         "color": "Red",
-        "description": "Cartographie des dangers",
+        "description": "Trottoir trop étroit\nTrottoir dégradé\nTrottoir encombré\nAbsence de trottoir\nPassage piéton absent\nPassage piéton mal positionné\nTraversée trop longue\nTraversée dangereuse\nCheminement interrompu\nAbsence de bateau / abaissement de trottoir\nBordure trop haute\nRampe trop raide\nEscalier sans alternative\nRevêtement difficile\nMobilier gênant\nFeu piéton sans signal sonore\nObstacles pour fauteuil roulant\nDifficultés pour personnes malvoyantes",
         "displayOnLoad": true,
         "fields": [
           {
@@ -729,15 +823,16 @@
           }
         ],
         "fillColor": "Red",
-        "iconUrl": "/uploads/pictogram/caution.svg",
+        "iconOpacity": 0.5,
+        "iconUrl": "/uploads/pictogram/pitch.svg",
         "inCaption": true,
-        "name": "Danger",
-        "opacity": 1,
+        "name": "Piétons PMR",
+        "opacity": 0.5,
         "remoteData": {},
         "stroke": true,
-        "weight": 6
+        "weight": 4
       },
-      "rank": 3,
+      "rank": 4,
       "type": "FeatureCollection"
     }
   ],
