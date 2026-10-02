@@ -179,7 +179,7 @@
           "id": "bB7r9",
           "properties": {
             "description": "Arceaux non fixés au sol",
-            "name": "P+R Bustière"
+            "name": "Arceaux P+R Bustière"
           },
           "type": "Feature"
         },
@@ -194,7 +194,7 @@
           "id": "dH06U",
           "properties": {
             "description": "Manque récurrent de stationnement vélo à la mairie",
-            "name": "Mairie de Fleury-les-Aubrais"
+            "name": "Arceaux mairie de Fleury-les-Aubrais"
           },
           "type": "Feature"
         },
@@ -208,8 +208,23 @@
           },
           "id": "toZb6",
           "properties": {
-            "description": "Manque de stationnement vélo sur le parc des sports Duclos",
-            "name": "Parc des sports Duclos"
+            "description": "Manque de stationnement vélo sur le parc des sports Duclos, alors que cet équipement accueille beaucoup de jeunes et mineurs",
+            "name": "Arceaux parc des sports Duclos"
+          },
+          "type": "Feature"
+        },
+        {
+          "geometry": {
+            "coordinates": [
+              1.906133,
+              47.933018
+            ],
+            "type": "Point"
+          },
+          "id": "xF973",
+          "properties": {
+            "description": "Difficile à passer en vélo, impossible en cargo",
+            "name": "Filtre modal Gaston Monmousseau"
           },
           "type": "Feature"
         }
@@ -217,6 +232,7 @@
       "properties": {
         "browsable": true,
         "color": "Indigo",
+        "description": "équipement manquant\néquipement dégradé\néquipement mal adapté\n",
         "displayOnLoad": true,
         "fields": [
           {
@@ -346,6 +362,20 @@
           "properties": {
             "description": "Stationnement régulier sur piste cyclable et passage piétons : infirmières, portage de repas, pompiers, visiteurs, emménagements / déménagements",
             "name": "Patios d'Or"
+          },
+          "type": "Feature"
+        },
+        {
+          "geometry": {
+            "coordinates": [
+              1.908004,
+              47.89386
+            ],
+            "type": "Point"
+          },
+          "id": "iYec4",
+          "properties": {
+            "name": "Stationnement sur trottoir rue des Anguignis"
           },
           "type": "Feature"
         }
@@ -648,6 +678,20 @@
         {
           "geometry": {
             "coordinates": [
+              1.91223,
+              47.894487
+            ],
+            "type": "Point"
+          },
+          "id": "14L3g",
+          "properties": {
+            "name": "Pas de trottoir PMR Quai des Augustins"
+          },
+          "type": "Feature"
+        },
+        {
+          "geometry": {
+            "coordinates": [
               [
                 [
                   1.913458,
@@ -677,6 +721,20 @@
           "properties": {
             "description": "Marquages piste cyclable effacés, pas de protection par plot, stationnements très fréquents sur pistes cyclables et passages piétons",
             "name": "Carrefour tram A / Bustière"
+          },
+          "type": "Feature"
+        },
+        {
+          "geometry": {
+            "coordinates": [
+              1.908588,
+              47.894681
+            ],
+            "type": "Point"
+          },
+          "id": "CYIx6",
+          "properties": {
+            "name": "Trottoir non PMR à cause du stationnement "
           },
           "type": "Feature"
         },
@@ -861,12 +919,12 @@
       "transports"
     ],
     "tilelayer": {
-      "attribution": "map data © [[http://osm.org/copyright|OpenStreetMap contributors]] under ODbL - tiles © [[https://github.com/tilery/pianoforte|Min. Aff. Étrangères]]",
-      "maxZoom": 20,
+      "attribution": "Tiles courtesy of [[https://www.jawg.io/|jawgmaps]] - Map data [[http://osm.org/copyright/|&copy; OpenStreetMap contributors]], under ODbL.",
+      "maxZoom": 18,
       "minZoom": 0,
-      "name": "OSM Piano FR",
+      "name": "Jawg Terrain",
       "tms": false,
-      "url_template": "https://a.piano.tiles.quaidorsay.fr/fr{r}/{z}/{x}/{y}.png"
+      "url_template": "https://tile.jawg.io/jawg-terrain/{z}/{x}/{y}.png?api-key=community"
     },
     "ttl": {
       "300": "5 min",
