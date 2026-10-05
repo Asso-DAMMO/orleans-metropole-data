@@ -6,7 +6,7 @@ name: Backup uMap
 
 on:
   schedule:
-    - cron: "15 * * * *"
+    - cron: "33 * * * *"
   workflow_dispatch:
 
 permissions:
