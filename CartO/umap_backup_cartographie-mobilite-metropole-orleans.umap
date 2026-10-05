@@ -44,7 +44,7 @@
           }
         ],
         "fill": true,
-        "fillColor": "MediumSpringGreen",
+        "fillColor": "PaleGreen",
         "fillOpacity": 0.1,
         "inCaption": false,
         "interactive": false,
@@ -863,6 +863,47 @@
             "name": "Tunnel du Champ Bouchaud"
           },
           "type": "Feature"
+        },
+        {
+          "geometry": {
+            "coordinates": [
+              [
+                1.906187,
+                47.891935
+              ],
+              [
+                1.906659,
+                47.894143
+              ],
+              [
+                1.905736,
+                47.894208
+              ],
+              [
+                1.905377,
+                47.894298
+              ],
+              [
+                1.905119,
+                47.89446
+              ],
+              [
+                1.905044,
+                47.894643
+              ],
+              [
+                1.904991,
+                47.894776
+              ]
+            ],
+            "type": "LineString"
+          },
+          "id": "uE5zw",
+          "properties": {
+            "description": "Contresens cyclable St Marceau / rue de la bascule\nEmprunté par de nombreux lycéens qui font centre ville <-> Lycée St Charles",
+            "name": "Contresens St Marceau / Bascule"
+          },
+          "type": "Feature"
         }
       ],
       "properties": {
@@ -922,9 +963,9 @@
       "attribution": "Tiles courtesy of [[https://www.jawg.io/|jawgmaps]] - Map data [[http://osm.org/copyright/|&copy; OpenStreetMap contributors]], under ODbL.",
       "maxZoom": 18,
       "minZoom": 0,
-      "name": "Jawg Terrain",
+      "name": "Jawg Light",
       "tms": false,
-      "url_template": "https://tile.jawg.io/jawg-terrain/{z}/{x}/{y}.png?api-key=community"
+      "url_template": "https://tile.jawg.io/jawg-light/{z}/{x}/{y}.png?api-key=community"
     },
     "ttl": {
       "300": "5 min",
