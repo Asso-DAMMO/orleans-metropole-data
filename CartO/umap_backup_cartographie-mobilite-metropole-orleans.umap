@@ -111,7 +111,7 @@
           },
           "id": "7B2yL",
           "properties": {
-            "description": "Velopark sous-dimensionné pour la gare\nLa porte ne ferme plus",
+            "description": "Velopark sous-dimensionné pour la gare\nForte demande de parking vélo sécurisé sur le baromètre de la FUB",
             "name": "Velopark Aubrais"
           },
           "type": "Feature"
@@ -597,6 +597,21 @@
         {
           "geometry": {
             "coordinates": [
+              1.920354,
+              47.899492
+            ],
+            "type": "Point"
+          },
+          "id": "qd3et",
+          "properties": {
+            "description": "Connexion étroite et à angle droit pour la fin de la passerelle du pont Thinat",
+            "name": "Stop passerelle pont Thinat"
+          },
+          "type": "Feature"
+        },
+        {
+          "geometry": {
+            "coordinates": [
               1.914821,
               47.91993
             ],
@@ -721,6 +736,27 @@
           "properties": {
             "description": "Marquages piste cyclable effacés, pas de protection par plot, stationnements très fréquents sur pistes cyclables et passages piétons",
             "name": "Carrefour tram A / Bustière"
+          },
+          "type": "Feature"
+        },
+        {
+          "geometry": {
+            "coordinates": [
+              [
+                1.917061,
+                47.94399
+              ],
+              [
+                1.915424,
+                47.941898
+              ]
+            ],
+            "type": "LineString"
+          },
+          "id": "4vcMZ",
+          "properties": {
+            "description": "Piste cyclable double sens bitumée (entre les anciens rails), cheminement piéton en calcaire -> conflit d'usage",
+            "name": "Trottoir Anatole France"
           },
           "type": "Feature"
         },
