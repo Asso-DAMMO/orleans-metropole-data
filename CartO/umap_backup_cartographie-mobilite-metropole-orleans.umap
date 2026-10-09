@@ -164,7 +164,7 @@
           "id": "S9sv4",
           "properties": {
             "description": "Manque de stationnement vélo sécurisé",
-            "name": "Théatre"
+            "name": "Parking sécurisé Théatre"
           },
           "type": "Feature"
         },
@@ -693,140 +693,6 @@
         {
           "geometry": {
             "coordinates": [
-              1.91223,
-              47.894487
-            ],
-            "type": "Point"
-          },
-          "id": "14L3g",
-          "properties": {
-            "name": "Pas de trottoir PMR Quai des Augustins"
-          },
-          "type": "Feature"
-        },
-        {
-          "geometry": {
-            "coordinates": [
-              [
-                [
-                  1.913458,
-                  47.929271
-                ],
-                [
-                  1.913359,
-                  47.929016
-                ],
-                [
-                  1.913606,
-                  47.92896
-                ],
-                [
-                  1.913705,
-                  47.929213
-                ],
-                [
-                  1.913458,
-                  47.929271
-                ]
-              ]
-            ],
-            "type": "Polygon"
-          },
-          "id": "3u0uT",
-          "properties": {
-            "description": "Marquages piste cyclable effacés, pas de protection par plot, stationnements très fréquents sur pistes cyclables et passages piétons",
-            "name": "Carrefour tram A / Bustière"
-          },
-          "type": "Feature"
-        },
-        {
-          "geometry": {
-            "coordinates": [
-              [
-                1.917061,
-                47.94399
-              ],
-              [
-                1.915424,
-                47.941898
-              ]
-            ],
-            "type": "LineString"
-          },
-          "id": "4vcMZ",
-          "properties": {
-            "description": "Piste cyclable double sens bitumée (entre les anciens rails), cheminement piéton en calcaire -> conflit d'usage",
-            "name": "Trottoir Anatole France"
-          },
-          "type": "Feature"
-        },
-        {
-          "geometry": {
-            "coordinates": [
-              1.908588,
-              47.894681
-            ],
-            "type": "Point"
-          },
-          "id": "CYIx6",
-          "properties": {
-            "name": "Trottoir non PMR à cause du stationnement "
-          },
-          "type": "Feature"
-        },
-        {
-          "geometry": {
-            "coordinates": [
-              [
-                [
-                  1.920552,
-                  47.931132
-                ],
-                [
-                  1.920505,
-                  47.930984
-                ],
-                [
-                  1.920779,
-                  47.93096
-                ],
-                [
-                  1.9208,
-                  47.931094
-                ],
-                [
-                  1.920552,
-                  47.931132
-                ]
-              ]
-            ],
-            "type": "Polygon"
-          },
-          "id": "RSaGz",
-          "properties": {
-            "description": "Cheminement pas clair, protection par des pictos, et angles trop ouverts pour véhicules",
-            "name": "Carrefour Mairie  /Bld Lamballe"
-          },
-          "type": "Feature"
-        },
-        {
-          "geometry": {
-            "coordinates": [
-              1.91657,
-              47.928227
-            ],
-            "type": "Point"
-          },
-          "id": "TwBFd",
-          "properties": {
-            "description": "Le trottoir est suffisamment large, mais est rétréci devant les douanes par de la végétation. Des camions et des pick-up se garent régulièrement à cet endroit, en mordant sur l'espace piétons. A protéger par une barrière",
-            "name": "Trottoir à protéger devant douanes"
-          },
-          "type": "Feature"
-        },
-        {
-          "geometry": {
-            "coordinates": [
               [
                 1.912533,
                 47.914544
@@ -866,10 +732,60 @@
             ],
             "type": "LineString"
           },
-          "id": "pWaps",
+          "id": "0tAEy",
           "properties": {
             "description": "Les trottoirs sont inexistants, les piétons marchent sur les pistes cyclables",
             "name": "Trottoir Bd Victor Hugo"
+          },
+          "type": "Feature"
+        },
+        {
+          "geometry": {
+            "coordinates": [
+              [
+                [
+                  1.920552,
+                  47.931132
+                ],
+                [
+                  1.920505,
+                  47.930984
+                ],
+                [
+                  1.920779,
+                  47.93096
+                ],
+                [
+                  1.9208,
+                  47.931094
+                ],
+                [
+                  1.920552,
+                  47.931132
+                ]
+              ]
+            ],
+            "type": "Polygon"
+          },
+          "id": "420t6",
+          "properties": {
+            "description": "Cheminement pas clair, protection par des pictos, et angles trop ouverts pour véhicules",
+            "name": "Carrefour Mairie  /Bld Lamballe"
+          },
+          "type": "Feature"
+        },
+        {
+          "geometry": {
+            "coordinates": [
+              1.932821,
+              47.933482
+            ],
+            "type": "Point"
+          },
+          "id": "KjOz6",
+          "properties": {
+            "description": "Chemin des écoliers impraticable en temps de pluie",
+            "name": "Chemin des écoliers impraticable en temps de pluie"
           },
           "type": "Feature"
         },
@@ -893,10 +809,45 @@
             ],
             "type": "Polygon"
           },
-          "id": "rvcSF",
+          "id": "OZ1Hl",
           "properties": {
             "description": "Trottoir trop étroit, piste cyclable bidirectionnelle trop étroite, non-respect du 30 km/h pour les véhicules à moteur\n",
             "name": "Tunnel du Champ Bouchaud"
+          },
+          "type": "Feature"
+        },
+        {
+          "geometry": {
+            "coordinates": [
+              [
+                [
+                  1.913458,
+                  47.929271
+                ],
+                [
+                  1.913359,
+                  47.929016
+                ],
+                [
+                  1.913606,
+                  47.92896
+                ],
+                [
+                  1.913705,
+                  47.929213
+                ],
+                [
+                  1.913458,
+                  47.929271
+                ]
+              ]
+            ],
+            "type": "Polygon"
+          },
+          "id": "VlFfq",
+          "properties": {
+            "description": "Marquages piste cyclable effacés, pas de protection par plot, stationnements très fréquents sur pistes cyclables et passages piétons",
+            "name": "Carrefour tram A / Bustière"
           },
           "type": "Feature"
         },
@@ -934,10 +885,86 @@
             ],
             "type": "LineString"
           },
-          "id": "uE5zw",
+          "id": "W1FFv",
           "properties": {
             "description": "Contresens cyclable St Marceau / rue de la bascule\nEmprunté par de nombreux lycéens qui font centre ville <-> Lycée St Charles",
             "name": "Contresens St Marceau / Bascule"
+          },
+          "type": "Feature"
+        },
+        {
+          "geometry": {
+            "coordinates": [
+              1.9035315513610842,
+              47.92232429551388
+            ],
+            "type": "Point"
+          },
+          "id": "er8rZ",
+          "properties": {},
+          "type": "Feature"
+        },
+        {
+          "geometry": {
+            "coordinates": [
+              1.91657,
+              47.928227
+            ],
+            "type": "Point"
+          },
+          "id": "gXvFd",
+          "properties": {
+            "description": "Le trottoir est suffisamment large, mais est rétréci devant les douanes par de la végétation. Des camions et des pick-up se garent régulièrement à cet endroit, en mordant sur l'espace piétons. A protéger par une barrière",
+            "name": "Trottoir à protéger devant douanes"
+          },
+          "type": "Feature"
+        },
+        {
+          "geometry": {
+            "coordinates": [
+              1.908588,
+              47.894681
+            ],
+            "type": "Point"
+          },
+          "id": "nGeCD",
+          "properties": {
+            "name": "Trottoir non PMR à cause du stationnement "
+          },
+          "type": "Feature"
+        },
+        {
+          "geometry": {
+            "coordinates": [
+              [
+                1.917061,
+                47.94399
+              ],
+              [
+                1.915424,
+                47.941898
+              ]
+            ],
+            "type": "LineString"
+          },
+          "id": "nXW8j",
+          "properties": {
+            "description": "Piste cyclable double sens bitumée (entre les anciens rails), cheminement piéton en calcaire -> conflit d'usage",
+            "name": "Trottoir Anatole France"
+          },
+          "type": "Feature"
+        },
+        {
+          "geometry": {
+            "coordinates": [
+              1.91223,
+              47.894487
+            ],
+            "type": "Point"
+          },
+          "id": "otxpO",
+          "properties": {
+            "name": "Pas de trottoir PMR Quai des Augustins"
           },
           "type": "Feature"
         }
@@ -955,9 +982,19 @@
           {
             "key": "description",
             "type": "Text"
+          },
+          {
+            "key": "Sous-categorie",
+            "type": "Enum"
           }
         ],
         "fillColor": "Red",
+        "filters": [
+          {
+            "fieldKey": "Sous-categorie",
+            "widget": "Radio"
+          }
+        ],
         "iconOpacity": 0.5,
         "iconUrl": "/uploads/pictogram/pitch.svg",
         "inCaption": true,
