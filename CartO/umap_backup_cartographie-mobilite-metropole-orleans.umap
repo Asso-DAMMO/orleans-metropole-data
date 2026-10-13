@@ -201,6 +201,22 @@
         {
           "geometry": {
             "coordinates": [
+              1.92441,
+              47.933208
+            ],
+            "type": "Point"
+          },
+          "id": "hS7IB",
+          "properties": {
+            "Sous-categorie": "M12",
+            "description": "Mettre un M12 pour tourner à droite à l'intersection depuis la rue Emile Zola vers la droite avenue d'Oradour sur Glane\n",
+            "name": "M12 Emile Zola droite Oradour sur Glane"
+          },
+          "type": "Feature"
+        },
+        {
+          "geometry": {
+            "coordinates": [
               1.92367,
               47.932125
             ],
