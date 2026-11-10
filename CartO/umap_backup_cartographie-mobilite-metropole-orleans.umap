@@ -277,8 +277,8 @@
         {
           "geometry": {
             "coordinates": [
-              1.910312,
-              47.914719
+              1.910219,
+              47.91453
             ],
             "type": "Point"
           },
@@ -340,7 +340,7 @@
           },
           "id": "RscV3",
           "properties": {
-            "description": "Stationnement anarchique lors de fortes affluences",
+            "description": "Stationnement anarchique lors de fortes affluences à la gare",
             "name": "Gare des Aubrais"
           },
           "type": "Feature"
@@ -444,6 +444,47 @@
           "properties": {
             "description": "Trottoir trop étroit, piste cyclable bidirectionnelle trop étroite, non-respect du 30 km/h pour les véhicules à moteur\n",
             "name": "Tunnel du Champ Bouchaud"
+          },
+          "type": "Feature"
+        },
+        {
+          "geometry": {
+            "coordinates": [
+              [
+                1.906187,
+                47.891935
+              ],
+              [
+                1.906659,
+                47.894143
+              ],
+              [
+                1.905736,
+                47.894208
+              ],
+              [
+                1.905377,
+                47.894298
+              ],
+              [
+                1.905119,
+                47.89446
+              ],
+              [
+                1.905044,
+                47.894643
+              ],
+              [
+                1.904991,
+                47.894776
+              ]
+            ],
+            "type": "LineString"
+          },
+          "id": "2tK3o",
+          "properties": {
+            "description": "Contresens cyclable St Marceau / rue de la bascule\nEmprunté par de nombreux lycéens qui font centre ville <-> Lycée St Charles",
+            "name": "Contresens St Marceau / Bascule"
           },
           "type": "Feature"
         },
@@ -865,59 +906,6 @@
             "description": "Marquages piste cyclable effacés, pas de protection par plot, stationnements très fréquents sur pistes cyclables et passages piétons",
             "name": "Carrefour tram A / Bustière"
           },
-          "type": "Feature"
-        },
-        {
-          "geometry": {
-            "coordinates": [
-              [
-                1.906187,
-                47.891935
-              ],
-              [
-                1.906659,
-                47.894143
-              ],
-              [
-                1.905736,
-                47.894208
-              ],
-              [
-                1.905377,
-                47.894298
-              ],
-              [
-                1.905119,
-                47.89446
-              ],
-              [
-                1.905044,
-                47.894643
-              ],
-              [
-                1.904991,
-                47.894776
-              ]
-            ],
-            "type": "LineString"
-          },
-          "id": "W1FFv",
-          "properties": {
-            "description": "Contresens cyclable St Marceau / rue de la bascule\nEmprunté par de nombreux lycéens qui font centre ville <-> Lycée St Charles",
-            "name": "Contresens St Marceau / Bascule"
-          },
-          "type": "Feature"
-        },
-        {
-          "geometry": {
-            "coordinates": [
-              1.9035315513610842,
-              47.92232429551388
-            ],
-            "type": "Point"
-          },
-          "id": "er8rZ",
-          "properties": {},
           "type": "Feature"
         },
         {
