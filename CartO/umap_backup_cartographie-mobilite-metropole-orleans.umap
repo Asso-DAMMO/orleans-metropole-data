@@ -639,6 +639,27 @@
         {
           "geometry": {
             "coordinates": [
+              [
+                1.904411,
+                47.894794
+              ],
+              [
+                1.905012,
+                47.887485
+              ]
+            ],
+            "type": "LineString"
+          },
+          "id": "jVqxs",
+          "properties": {
+            "description": "dans la continuite du pontgeroes V …",
+            "name": "Piste cyclable avenur Dauphine"
+          },
+          "type": "Feature"
+        },
+        {
+          "geometry": {
+            "coordinates": [
               1.922945,
               47.893208
             ],
